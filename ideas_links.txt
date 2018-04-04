@@ -1,0 +1,17 @@
+﻿Le NPS : un outil indispensable pour mesurer la satisfaction de vos clients
+https://www.dictanova.com/blog/le-nps-un-outil-indispensable-pour-mesurer-la-satisfaction-de-vos-clients/
+
+Что может чат-бот
+https://habrahabr.ru/company/croc/blog/335650/
+
+Пять советов о том, как провалить проект
+https://vc.ru/18688-5-fail
+
+Every Psychologist Should Learn Programming
+https://www.marsja.se/every-psychologist-learn-programming/
+
+Concurrency, locking, and versioning
+https://whoosh.readthedocs.io/en/latest/threads.html
+
+PyMVPA: A Python toolbox for multivariate pattern analysis of fMRI data
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2664559/

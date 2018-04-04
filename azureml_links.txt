@@ -1,0 +1,14 @@
+Azure Machine Learning - trouble deploying web service
+https://stackoverflow.com/questions/48216972/azure-machine-learning-trouble-deploying-web-service?rq=1
+
+azure ml web service return internal error
+https://stackoverflow.com/questions/36763348/azure-ml-web-service-return-internal-error
+
+Deploy an Azure Machine Learning web service
+https://docs.microsoft.com/en-us/azure/machine-learning/studio/publish-a-machine-learning-web-service
+
+Error Executing ML Webservice - Error Code 4. - how to troubleshoot/resolve
+https://social.msdn.microsoft.com/Forums/azure/en-US/4d4a4083-f4e2-460d-a861-6e5de3bfe9bb/error-executing-ml-webservice-error-code-4-how-to-troubleshootresolve?forum=MachineLearning
+
+Create Azure Machine Learning Preview accounts and install Azure Machine Learning Workbench
+https://docs.microsoft.com/en-us/azure/machine-learning/preview/quickstart-installation

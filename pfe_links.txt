@@ -1,0 +1,18 @@
+﻿Intro to Automatic Keyphrase Extraction
+http://bdewilde.github.io/blog/2014/09/23/intro-to-automatic-keyphrase-extraction/
+
+Analyse avancée
+https://www.ibm.com/analytics/fr/fr/technology/advanced-analytics/
+
+Smarter predictions
+https://www.youtube.com/watch?v=VtETirgVn9c
+
+Analytique prescriptif : quand le prédictif se tourne vers l'opérationnel
+http://www.lemagit.fr/conseil/Analytique-prescriptif-quand-le-predictif-se-tourne-vers-loperationnel
+
+Data Storytelling 
+http://www.lemagit.fr/definition/Data-Storytelling
+
+Intelligence Augmentée : Du Prédictif au Prescriptif
+https://www.decideo.fr/Intelligence-Augmentee-Du-Predictif-au-Prescriptif_a9957.html
+

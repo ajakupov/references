@@ -1,0 +1,43 @@
+﻿French lemmas
+https://perso.limsi.fr/anne/OLDlexique.txt
+
+Lemmatize French text
+https://stackoverflow.com/questions/13131139/lemmatize-french-text
+
+Chatbot на нейронных сетях
+https://habrahabr.ru/company/meanotek/blog/256987/
+
+Классификация предложений с помощью нейронных сетей без предварительной обработки
+https://habrahabr.ru/company/meanotek/blog/256593/
+
+Алгоритмы чат бота на базе рекуррентной нейронной сети и расширения языка AIML
+https://habrahabr.ru/post/304284/
+
+Русскоязычный чат-бот Boltoon: создаем виртуального собеседника
+https://habrahabr.ru/post/340190/
+
+
+Чат-бот — как написать удобного и полезного?
+https://habrahabr.ru/post/311008/
+
+Русский нейросетевой чатбот
+https://habrahabr.ru/company/meanotek/blog/280268/
+
+How to Write a Spelling Corrector
+http://norvig.com/spell-correct.html
+
+how to implement python spell checker using google's “did you mean?”
+https://stackoverflow.com/questions/8428767/how-to-implement-python-spell-checker-using-googles-did-you-mean
+
+Whoosh 2.7.4 spell checking
+https://pypi.python.org/pypi/Whoosh/
+
+dictionary (controlled vocabulary)
+https://www.rdocumentation.org/packages/quanteda/versions/0.99/topics/dictionary
+
+Converting plural to singular in a text file with Python
+https://stackoverflow.com/questions/31387905/converting-plural-to-singular-in-a-text-file-with-python
+
+Unicode HOWTO
+https://docs.python.org/2/howto/unicode.htmls
+

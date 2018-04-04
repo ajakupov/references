@@ -1,0 +1,33 @@
+What are Typings in Typescript
+https://stackoverflow.com/questions/41573822/what-are-typings-in-typescript
+
+Save D3 chart as image
+https://stackoverflow.com/questions/36303964/save-d3-chart-as-image
+
+Adding External Libraries
+https://github.com/Microsoft/PowerBI-visuals/blob/master/Tutorial/ExternalLibraries.md
+
+How to save d3 graph as image on local machine?
+https://stackoverflow.com/questions/22166232/how-to-save-d3-graph-as-image-on-local-machine
+
+Build Your Custom Visuals in Power BI (Step-by-Step)
+https://tsmatz.wordpress.com/2016/09/27/power-bi-custom-visuals-programming/
+
+Create A Bar Chart With D3 JavaScript
+http://vegibit.com/create-a-bar-chart-with-d3-javascript/
+
+
+Felix's Node.js Beginners Guide
+http://nodeguide.com/beginner.html
+
+Use developer tools to create custom visuals
+https://powerbi.microsoft.com/en-us/guided-learning/powerbi-custom-visuals-getting-started-with-developer-tools/
+
+Custom visuals: change port from 8080 
+http://community.powerbi.com/t5/Developer/Custom-visuals-change-port-from-8080/td-p/108604
+
+How to convert/save d3.js graph to pdf/jpeg
+https://stackoverflow.com/questions/16049538/how-to-convert-save-d3-js-graph-to-pdf-jpeg
+
+How to give browser “save image as” option to button
+https://stackoverflow.com/questions/30694433/how-to-give-browser-save-image-as-option-to-button

@@ -1,0 +1,31 @@
+c# distance calculation
+http://stackoverflow.com/questions/13999187/distance-between-addresses
+
+convert radians to degrees and vice versa
+http://www.vcskicks.com/csharp_net_angles.php
+
+read from excel file
+https://coderwall.com/p/app3ya/read-excel-file-in-c
+http://csharp.net-informations.com/excel/csharp-read-excel.htm
+
+Use Power Query to Calculate Distance
+http://www.girlswithpowertools.com/2014/05/distance/
+
+what is solution of this error:-Requests to this API must be over SSL
+http://stackoverflow.com/questions/22806571/what-is-solution-of-this-error-requests-to-this-api-must-be-over-ssl
+
+Google Distance Api returns Zero with specific Latitude Longitute
+http://stackoverflow.com/questions/21132011/google-distance-api-returns-zero-with-specific-latitude-longitute
+
+Guide du d?veloppeur 
+https://developers.google.com/maps/documentation/distance-matrix/intro?hl=fr
+
+c# distance calculation
+http://stackoverflow.com/questions/13999187/distance-between-addresses
+
+convert radians to degrees and vice versa
+http://www.vcskicks.com/csharp_net_angles.php
+
+read from excel file
+https://coderwall.com/p/app3ya/read-excel-file-in-c
+http://csharp.net-informations.com/excel/csharp-read-excel.htm

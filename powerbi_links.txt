@@ -1,0 +1,54 @@
+DAX filter
+https://community.powerbi.com/t5/Desktop/Count-of-rows-after-filtering-by-a-measure/m-p/64263#M26548
+
+GroupBY function DAX
+https://msdn.microsoft.com/en-us/library/mt163693.aspx
+
+Group by a column and the group item to be shown in comma separated in single column 
+https://community.powerbi.com/t5/Desktop/group-by-a-column-and-the-group-item-to-be-shown-in-comma/td-p/31983
+
+Liste
+http://sql.sh/736-base-donnees-villes-francaises
+
+https://powerbi.microsoft.com/fr-fr/documentation/powerbi-developer-walkthrough-push-data-add-rows/
+
+TopN
+https://ideas.powerbi.com/forums/265200-power-bi/suggestions/6515731-top-n-filters
+
+Facebook
+https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-tutorial-facebook-analytics/
+
+Sentiment Analysis in Power BI
+https://community.powerbi.com/t5/Community-Blog/Sentiment-Analysis-in-Power-BI/ba-p/55898
+
+Facebook limit exceed
+https://community.powerbi.com/t5/Community-Knowledge-Base/Facebook-100-The-limit-parameter-should-not-exceed-100/ta-p/164790
+
+DAX filter
+https://community.powerbi.com/t5/Desktop/Count-of-rows-after-filtering-by-a-measure/m-p/64263#M26548
+
+GroupBY function DAX
+https://msdn.microsoft.com/en-us/library/mt163693.aspx
+
+Group by a column and the group item to be shown in comma separated in single column 
+https://community.powerbi.com/t5/Desktop/group-by-a-column-and-the-group-item-to-be-shown-in-comma/td-p/31983
+
+Liste
+http://sql.sh/736-base-donnees-villes-francaises
+
+https://powerbi.microsoft.com/fr-fr/documentation/powerbi-developer-walkthrough-push-data-add-rows/
+
+TopN
+https://ideas.powerbi.com/forums/265200-power-bi/suggestions/6515731-top-n-filters
+
+Facebook
+https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-tutorial-facebook-analytics/
+
+Sentiment Analysis in Power BI
+https://community.powerbi.com/t5/Community-Blog/Sentiment-Analysis-in-Power-BI/ba-p/55898
+
+Facebook limit exceed
+https://community.powerbi.com/t5/Community-Knowledge-Base/Facebook-100-The-limit-parameter-should-not-exceed-100/ta-p/164790
+
+Use Power Query to Calculate Distance
+http://www.girlswithpowertools.com/2014/05/distance/

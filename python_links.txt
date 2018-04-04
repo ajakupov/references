@@ -1,0 +1,5 @@
+Python: How to import other Python files
+https://stackoverflow.com/questions/2349991/python-how-to-import-other-python-files
+
+Does Python have “private” variables in classes?
+https://stackoverflow.com/questions/1641219/does-python-have-private-variables-in-classes
