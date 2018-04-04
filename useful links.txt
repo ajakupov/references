@@ -313,3 +313,6 @@ https://sandipanweb.wordpress.com/2017/10/13/measuring-semantic-relatedness-with
 
 How to install Acrobat Reader in a different drive?
 https://forums.adobe.com/thread/950366
+
+Spell check not working in parts of Texmaker after copy and paste
+https://tex.stackexchange.com/questions/369866/spell-check-not-working-in-parts-of-texmaker-after-copy-and-paste
