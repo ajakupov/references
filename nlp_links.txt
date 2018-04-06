@@ -41,3 +41,5 @@ https://stackoverflow.com/questions/31387905/converting-plural-to-singular-in-a-
 Unicode HOWTO
 https://docs.python.org/2/howto/unicode.htmls
 
+“Secret” Recipe for Topic Modeling Themes
+http://www.matthewjockers.net/2013/04/12/secret-recipe-for-topic-modeling-themes/
