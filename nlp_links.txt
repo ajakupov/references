@@ -16,7 +16,6 @@ https://habrahabr.ru/post/304284/
 Русскоязычный чат-бот Boltoon: создаем виртуального собеседника
 https://habrahabr.ru/post/340190/
 
-
 Чат-бот — как написать удобного и полезного?
 https://habrahabr.ru/post/311008/
 
