@@ -10,15 +10,6 @@ https://developers.google.com/maps/documentation/distance-matrix/intro?hl=fr
 Didacticiel sur l�apprentissage automatique : Cr�ation de votre premi�re exp�rience de science des donn�es dans Azure Machine Learning Studio
 https://docs.microsoft.com/fr-fr/azure/machine-learning/machine-learning-create-experiment
 
-Text Classification
-https://gallery.cortanaintelligence.com/Experiment/f43e79f47d8a4219bf8613d271ea2c45
-
-Getting started with the Text Analytics APIs to detect sentiment, key phrases, topics, and language
-https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/quick-start
-
-What algorithm is used to determine the most important words in an English sentence?
-https://www.quora.com/What-algorithm-is-used-to-determine-the-most-important-words-in-an-English-sentence
-
 Intro to Automatic Keyphrase Extraction
 http://bdewilde.github.io/blog/2014/09/23/intro-to-automatic-keyphrase-extraction/
 

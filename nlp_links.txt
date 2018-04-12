@@ -42,3 +42,45 @@ https://docs.python.org/2/howto/unicode.htmls
 
 “Secret” Recipe for Topic Modeling Themes
 http://www.matthewjockers.net/2013/04/12/secret-recipe-for-topic-modeling-themes/
+
+Text Classification
+https://gallery.cortanaintelligence.com/Experiment/f43e79f47d8a4219bf8613d271ea2c45
+
+Getting started with the Text Analytics APIs to detect sentiment, key phrases, topics, and language
+https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/quick-start
+
+What algorithm is used to determine the most important words in an English sentence?
+https://www.quora.com/What-algorithm-is-used-to-determine-the-most-important-words-in-an-English-sentence
+
+Cannot Install on Windows #1574 
+https://github.com/nltk/nltk/issues/1574
+
+Extract Key Phrases from Text
+https://msdn.microsoft.com/en-us/library/mt786708.aspx
+
+Running a linear model in R with spreadsheet data
+http://stackoverflow.com/questions/19363754/running-a-linear-model-in-r-with-spreadsheet-data
+
+Building a list of keywords to perform a fuzzy matching using RKEA and tm packages in R
+http://stackoverflow.com/questions/38879885/building-a-list-of-keywords-to-perform-a-fuzzy-matching-using-rkea-and-tm-packag
+
+createModel: Create a KEA Model
+https://rdrr.io/cran/RKEA/man/createModel.html
+
+Getting Started with quanteda
+https://cran.r-project.org/web/packages/quanteda/vignettes/quickstart.html#how-a-quanteda-corpus-works
+
+REGRESSIVE IMAGERY DICTIONARY
+https://provalisresearch.com/products/content-analysis-software/wordstat-dictionary/regressive-imagery-dictionary/
+
+List of 50+ Machine Learning APIs
+http://blog.mashape.com/list-of-50-machine-learning-apis/
+
+LDA with topicmodels, how can I see which topics different documents belong to?
+https://stackoverflow.com/questions/14875493/lda-with-topicmodels-how-can-i-see-which-topics-different-documents-belong-to
+
+How can you find and replace synonyms in a text corpus in R? (Read description)
+https://www.quora.com/How-can-you-find-and-replace-synonyms-in-a-text-corpus-in-R-Read-description
+
+R gsub Function
+http://www.endmemo.com/program/R/gsub.php
