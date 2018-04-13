@@ -10,47 +10,11 @@ https://developers.google.com/maps/documentation/distance-matrix/intro?hl=fr
 Didacticiel sur l�apprentissage automatique : Cr�ation de votre premi�re exp�rience de science des donn�es dans Azure Machine Learning Studio
 https://docs.microsoft.com/fr-fr/azure/machine-learning/machine-learning-create-experiment
 
-Intro to Automatic Keyphrase Extraction
-http://bdewilde.github.io/blog/2014/09/23/intro-to-automatic-keyphrase-extraction/
-
-Cannot Install on Windows #1574 
-https://github.com/nltk/nltk/issues/1574
-
-Extract Key Phrases from Text
-https://msdn.microsoft.com/en-us/library/mt786708.aspx
-
-Running a linear model in R with spreadsheet data
-http://stackoverflow.com/questions/19363754/running-a-linear-model-in-r-with-spreadsheet-data
-
-Building a list of keywords to perform a fuzzy matching using RKEA and tm packages in R
-http://stackoverflow.com/questions/38879885/building-a-list-of-keywords-to-perform-a-fuzzy-matching-using-rkea-and-tm-packag
-
-createModel: Create a KEA Model
-https://rdrr.io/cran/RKEA/man/createModel.html
-
-Getting Started with quanteda
-https://cran.r-project.org/web/packages/quanteda/vignettes/quickstart.html#how-a-quanteda-corpus-works
-
 First steps with Non-Linear Regression in R
 https://www.r-bloggers.com/first-steps-with-non-linear-regression-in-r/
 
-REGRESSIVE IMAGERY DICTIONARY
-https://provalisresearch.com/products/content-analysis-software/wordstat-dictionary/regressive-imagery-dictionary/
-
 How to group similar rows in R
 http://stackoverflow.com/questions/28123444/how-to-group-similar-rows-in-r
-
-List of 50+ Machine Learning APIs
-http://blog.mashape.com/list-of-50-machine-learning-apis/
-
-LDA with topicmodels, how can I see which topics different documents belong to?
-https://stackoverflow.com/questions/14875493/lda-with-topicmodels-how-can-i-see-which-topics-different-documents-belong-to
-
-How can you find and replace synonyms in a text corpus in R? (Read description)
-https://www.quora.com/How-can-you-find-and-replace-synonyms-in-a-text-corpus-in-R-Read-description
-
-R gsub Function
-http://www.endmemo.com/program/R/gsub.php
 
 Soundex en fran�ais
 https://www.afpy.org/forums/forum_python/forum_general/713544195984
