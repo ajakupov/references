@@ -52,3 +52,6 @@ https://community.powerbi.com/t5/Community-Knowledge-Base/Facebook-100-The-limit
 
 Use Power Query to Calculate Distance
 http://www.girlswithpowertools.com/2014/05/distance/
+
+New tables not showing in datasets
+https://community.powerbi.com/t5/Service/New-tables-not-showing-in-datasets/td-p/36866
