@@ -271,3 +271,6 @@ https://forums.adobe.com/thread/950366
 
 Spell check not working in parts of Texmaker after copy and paste
 https://tex.stackexchange.com/questions/369866/spell-check-not-working-in-parts-of-texmaker-after-copy-and-paste
+
+inputenc Error: Unicode char \u8: not set up for use with LaTeX
+https://tex.stackexchange.com/questions/83440/inputenc-error-unicode-char-u8-not-set-up-for-use-with-latex?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
