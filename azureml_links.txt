@@ -18,3 +18,6 @@ https://habr.com/company/microsoft/blog/275475/
 
 Машинное обучение для страховой компании: Улучшение модели через оптимизацию алгоритмов
 https://habr.com/company/microsoft/blog/334556/
+
+Mikhail_Komarov
+https://habr.com/users/mikhail_komarov/comments/

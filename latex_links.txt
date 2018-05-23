@@ -1,0 +1,17 @@
+﻿Mathematical expressions
+https://fr.sharelatex.com/learn/Mathematical_expressions
+
+Latex “element of with two strokes” (⋹)
+https://tex.stackexchange.com/questions/261693/latex-element-of-with-two-strokes-%E2%8B%B9?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+Sum-class symbol
+http://latex.wikia.com/wiki/Sum-class_symbol
+
+Comment écrire un algorithme ou du pseudocode en Latex ?\usepackage{algorithm},\usepackage{algorithmic}
+https://math-linux.com/latex-4/faq/latex-faq/article/comment-ecrire-un-algorithme-ou-du-pseudocode-en-latex-usepackage-algorithm-usepackage-algorithmic
+
+Lien vers une figure dans le texte 
+https://www.developpez.net/forums/d371385/autres-langages/autres-langages/latex/tableaux-graphiques-images-flottants/lien-vers-figure-texte/
+
+Inserting Images
+https://fr.sharelatex.com/learn/Inserting_Images
