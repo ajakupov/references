@@ -84,3 +84,12 @@ https://www.quora.com/How-can-you-find-and-replace-synonyms-in-a-text-corpus-in-
 
 R gsub Function
 http://www.endmemo.com/program/R/gsub.php
+
+How to Develop Word Embeddings in Python with Gensim
+https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
+
+Text Lab Paris
+https://notebooks.azure.com/ajakupov/libraries/Text-Lab-Paris
+
+Polyglot
+http://polyglot.readthedocs.io/en/latest/Detection.html

@@ -1,4 +1,4 @@
-Azure Machine Learning - trouble deploying web service
+﻿Azure Machine Learning - trouble deploying web service
 https://stackoverflow.com/questions/48216972/azure-machine-learning-trouble-deploying-web-service?rq=1
 
 azure ml web service return internal error
@@ -12,3 +12,9 @@ https://social.msdn.microsoft.com/Forums/azure/en-US/4d4a4083-f4e2-460d-a861-6e5
 
 Create Azure Machine Learning Preview accounts and install Azure Machine Learning Workbench
 https://docs.microsoft.com/en-us/azure/machine-learning/preview/quickstart-installation
+
+Azure Machine Learning: разработка сервисов машинного обучения и их использование в мобильном приложении
+https://habr.com/company/microsoft/blog/275475/
+
+Машинное обучение для страховой компании: Улучшение модели через оптимизацию алгоритмов
+https://habr.com/company/microsoft/blog/334556/
