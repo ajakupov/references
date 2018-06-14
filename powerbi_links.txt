@@ -55,3 +55,15 @@ http://www.girlswithpowertools.com/2014/05/distance/
 
 New tables not showing in datasets
 https://community.powerbi.com/t5/Service/New-tables-not-showing-in-datasets/td-p/36866
+
+Accepted Solution a problem connecting wiht postgresql database
+https://community.powerbi.com/t5/Desktop/a-problem-connecting-wiht-postgresql-database/td-p/431097
+
+PostgreSQL + powerbi desktop connection error
+https://community.powerbi.com/t5/Desktop/PostgreSQL-powerbi-desktop-connection-error/td-p/89940
+
+Npgsql 3.0.3 error with Power BI Desktop
+https://stackoverflow.com/questions/33249814/npgsql-3-0-3-error-with-power-bi-desktop/36637126#36637126
+
+Access Power BI API with Python
+https://community.powerbi.com/t5/Developer/Access-Power-BI-API-with-Python/td-p/189165
