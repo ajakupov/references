@@ -93,3 +93,33 @@ https://notebooks.azure.com/ajakupov/libraries/Text-Lab-Paris
 
 Polyglot
 http://polyglot.readthedocs.io/en/latest/Detection.html
+
+SQuAD2.0, The Stanford Question Answering Dataset
+https://rajpurkar.github.io/SQuAD-explorer/
+
+OpinRank Dataset. Dataset containing user reviews for entities namely cars and hotels. 
+https://github.com/kavgan/OpinRank
+
+Small LDA book
+https://ldabook.com/what-is-lda.html
+
+Gensim LDA: Tips and Tricks
+https://miningthedetails.com/blog/python/lda/GensimLDA/
+
+A topic-centric list of high-quality open datasets in public domains.
+https://github.com/awesomedata/awesome-public-datasets
+
+models.ldamodel – Latent Dirichlet Allocation
+https://radimrehurek.com/gensim/models/ldamodel.html
+
+An air travel dataset consisting of user reviews from Skytrax (www.airlinequality.com) 
+https://github.com/quankiquanki/skytrax-reviews-dataset
+
+Latent Dirichlet Allocation (LDA) with Python
+https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html
+
+models.phrases – Phrase (collocation) detection
+https://radimrehurek.com/gensim/models/phrases.html
+
+NLP keyword extraction tutorial with RAKE and Maui
+https://www.airpair.com/nlp/keyword-extraction-tutorial

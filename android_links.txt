@@ -1,2 +1,8 @@
 How to add new data in firebase android
 https://stackoverflow.com/questions/37561497/how-to-add-new-data-in-firebase-android?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+How to get Spinner value?
+https://stackoverflow.com/questions/1947933/how-to-get-spinner-value
+
+Datepicker: How to popup datepicker when click on edittext
+https://stackoverflow.com/questions/14933330/datepicker-how-to-popup-datepicker-when-click-on-edittext
