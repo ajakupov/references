@@ -6,3 +6,6 @@ https://stackoverflow.com/questions/1947933/how-to-get-spinner-value
 
 Datepicker: How to popup datepicker when click on edittext
 https://stackoverflow.com/questions/14933330/datepicker-how-to-popup-datepicker-when-click-on-edittext
+
+How to display Formatted text in TextView?
+https://stackoverflow.com/questions/46008925/how-to-display-formatted-text-in-textview

@@ -67,3 +67,9 @@ https://stackoverflow.com/questions/33249814/npgsql-3-0-3-error-with-power-bi-de
 
 Access Power BI API with Python
 https://community.powerbi.com/t5/Developer/Access-Power-BI-API-with-Python/td-p/189165
+
+Analyzing and Visualizing Data with Microsoft Power BI
+https://www.microsoft.com/en-us/learning/exam-70-778.aspx
+
+Perform Cloud Data Science with Azure Machine Learning
+https://www.microsoft.com/en-us/learning/exam-70-774.aspx
