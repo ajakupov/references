@@ -9,3 +9,9 @@ https://stackoverflow.com/questions/14933330/datepicker-how-to-popup-datepicker-
 
 How to display Formatted text in TextView?
 https://stackoverflow.com/questions/46008925/how-to-display-formatted-text-in-textview
+
+How to make a Edit Note with paper line in Android?
+https://stackoverflow.com/questions/13912163/how-to-make-a-edit-note-with-paper-line-in-android
+
+Android:Draw line on a textview
+https://stackoverflow.com/questions/10754265/androiddraw-line-on-a-textview/10770670#10770670
