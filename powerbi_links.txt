@@ -79,3 +79,12 @@ https://community.powerbi.com/t5/Desktop/Python-visual-that-functions-like-a-Pow
 
 Python Episode 1 – A New hope
 https://powerbi.microsoft.com/fr-fr/blog/pythonblogepisode1/
+
+Bug in python visual
+https://community.powerbi.com/t5/Issues/Bug-in-python-visual/idi-p/487259
+
+Regional settings conflicting with Matplotlib for Python Visualizations in Power BI
+https://stackoverflow.com/questions/51859000/regional-settings-conflicting-with-matplotlib-for-python-visualizations-in-power
+
+real-time plotting in while loop with matplotlib
+https://stackoverflow.com/questions/11874767/real-time-plotting-in-while-loop-with-matplotlib
