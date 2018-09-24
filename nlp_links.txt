@@ -123,3 +123,21 @@ https://radimrehurek.com/gensim/models/phrases.html
 
 NLP keyword extraction tutorial with RAKE and Maui
 https://www.airpair.com/nlp/keyword-extraction-tutorial
+
+Unsupervised automatic tagging algorithms?
+https://stackoverflow.com/questions/15377290/unsupervised-automatic-tagging-algorithms
+
+Extract recommendations/suggestions from text
+https://stackoverflow.com/questions/41031853/extract-recommendations-suggestions-from-text
+
+Debunking NLP: Detecting Actionable Sentences
+https://www.clarabridge.com/blog/debunking-nlp-detecting-actionable-sentences/
+
+SpeechRecognition 3.8.1
+https://pypi.org/project/SpeechRecognition/
+
+Vocabulary 1.0.4
+https://pypi.org/project/Vocabulary/
+
+Top 10 Python Libraries for Natural Language Processing (2018)
+https://kleiber.me/blog/2018/02/25/top-10-python-nlp-libraries-2018/

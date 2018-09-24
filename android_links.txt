@@ -15,3 +15,10 @@ https://stackoverflow.com/questions/13912163/how-to-make-a-edit-note-with-paper-
 
 Android:Draw line on a textview
 https://stackoverflow.com/questions/10754265/androiddraw-line-on-a-textview/10770670#10770670
+
+13 Android development best practices we follow at Innofied
+https://www.innofied.com/13-android-development-best-practices/
+
+How to Publish an App on Google Play: A Step-by-Step Guide
+https://medium.com/@the_manifest/how-to-publish-an-app-on-google-play-a-step-by-step-guide-80f9f533e370
+

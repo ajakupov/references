@@ -1,0 +1,8 @@
+Use the prediction endpoint to test images programmatically with a Custom Vision Service classifier
+https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/use-prediction-api
+
+Tensorflow Tutorial 2: image classifier using convolutional neural network
+https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
+
+Image Recognition
+https://www.tensorflow.org/tutorials/images/image_recognition
