@@ -6,3 +6,15 @@ https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-
 
 Image Recognition
 https://www.tensorflow.org/tutorials/images/image_recognition
+
+Face Detection in Python Using a Webcam
+https://realpython.com/face-detection-in-python-using-a-webcam/
+
+Detecting and tracking a face with Python and OpenCV
+https://www.guidodiepen.nl/2017/02/detecting-and-tracking-a-face-with-python-and-opencv/
+
+Azure Cognitive Custom Vision
+https://stackoverflow.com/questions/44600353/azure-cognitive-custom-vision
+
+Custom_Vision_Training_1.0
+https://southcentralus.dev.cognitive.microsoft.com/docs/services/d9a10a4a5f8549599f1ecafc435119fa/operations/58f4fa2ec8cb230790062d36/console

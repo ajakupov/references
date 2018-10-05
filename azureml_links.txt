@@ -21,3 +21,6 @@ https://habr.com/company/microsoft/blog/334556/
 
 Mikhail_Komarov
 https://habr.com/users/mikhail_komarov/comments/
+
+Choose parameters to optimize your algorithms in Azure Machine Learning
+https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-parameters-optimize
