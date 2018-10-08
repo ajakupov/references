@@ -18,3 +18,4 @@ https://stackoverflow.com/questions/44600353/azure-cognitive-custom-vision
 
 Custom_Vision_Training_1.0
 https://southcentralus.dev.cognitive.microsoft.com/docs/services/d9a10a4a5f8549599f1ecafc435119fa/operations/58f4fa2ec8cb230790062d36/console
+
