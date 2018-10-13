@@ -3,3 +3,9 @@ https://stackoverflow.com/questions/2349991/python-how-to-import-other-python-fi
 
 Does Python have “private” variables in classes?
 https://stackoverflow.com/questions/1641219/does-python-have-private-variables-in-classes
+
+Installing pyinstaller via pip leads to “failed to create process”
+https://stackoverflow.com/questions/31808180/installing-pyinstaller-via-pip-leads-to-failed-to-create-process
+
+Installing pyinstaller via pip leads to “failed to create process”
+https://stackoverflow.com/questions/31808180/installing-pyinstaller-via-pip-leads-to-failed-to-create-process
