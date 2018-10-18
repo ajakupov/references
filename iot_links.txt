@@ -1,0 +1,17 @@
+Tutorial: Deploy Azure Machine Learning as an IoT Edge module (preview)
+https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-machine-learning
+
+Quickstart: Send telemetry from a device to an IoT hub and read the telemetry from the hub with a back-end application (Python)
+https://docs.microsoft.com/en-us/azure/iot-hub/quickstart-send-telemetry-python
+
+Azure IoT Edge: A Technology Primer
+https://thenewstack.io/azure-iot-edge-a-technology-primer/
+
+Quickstart: Deploy your first IoT Edge module from the Azure portal to a Windows device - preview
+https://docs.microsoft.com/en-us/azure/iot-edge/quickstart
+
+Quickstart: Deploy your first IoT Edge module to a Linux x64 device
+https://docs.microsoft.com/en-us/azure/iot-edge/quickstart-linux
+
+Connect a Sigfox IoT device to the Microsoft Azure IoT Hub
+https://internetofallthings.nl/2016/07/01/connect-a-sigfox-iot-device-to-the-microsoft-azure-iot-hub/
