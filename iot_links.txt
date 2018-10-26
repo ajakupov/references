@@ -15,3 +15,9 @@ https://docs.microsoft.com/en-us/azure/iot-edge/quickstart-linux
 
 Connect a Sigfox IoT device to the Microsoft Azure IoT Hub
 https://internetofallthings.nl/2016/07/01/connect-a-sigfox-iot-device-to-the-microsoft-azure-iot-hub/
+
+Azure IoT Suite Predictive Maintenance
+https://partners.sigfox.com/products/azure-iot-suite-predictive-maintenance
+
+Azure IoT Suite Remote Monitoring
+https://partners.sigfox.com/products/azure-iot-suite-remote-monitoring
