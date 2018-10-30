@@ -27,3 +27,9 @@ https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-paramet
 
 AWS to Azure services comparison
 https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services
+
+How #AzureML and #MachineLearning are helping managing my Inbox–Part I
+https://rquintino.wordpress.com/2015/02/25/how-azureml-and-machinelearning-are-helping-managing-my-inboxpart-i/
+
+Create a VNet with a Site-to-Site VPN connection using PowerShell
+https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-create-site-to-site-rm-powershell

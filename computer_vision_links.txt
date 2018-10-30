@@ -21,3 +21,21 @@ https://southcentralus.dev.cognitive.microsoft.com/docs/services/d9a10a4a5f85495
 
 How to choose the cascade file for face detection?
 https://stackoverflow.com/questions/4440283/how-to-choose-the-cascade-file-for-face-detection
+
+Face & Body Detection — OpenCV + Python
+https://medium.com/@rahulvaish/face-body-detection-opencv-python-fe9194ed9f52
+
+Watermarking images with OpenCV and Python
+https://www.pyimagesearch.com/2016/04/25/watermarking-images-with-opencv-and-python/
+
+Python cv2.add() Examples
+https://www.programcreek.com/python/example/89358/cv2.add
+
+The world's simplest facial recognition api for Python and the command line
+https://github.com/ageitgey/face_recognition
+
+opencv_traincascade Parameters explanation
+http://answers.opencv.org/question/39160/opencv_traincascade-parameters-explanation-image-sizes-etc/
+
+OpenCV upper body and lower body detection. 
+https://www.edaboard.com/showthread.php?217494-OpenCV-upper-body-and-lower-body-detection
