@@ -274,3 +274,18 @@ https://tex.stackexchange.com/questions/369866/spell-check-not-working-in-parts-
 
 inputenc Error: Unicode char \u8: not set up for use with LaTeX
 https://tex.stackexchange.com/questions/83440/inputenc-error-unicode-char-u8-not-set-up-for-use-with-latex?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+How to create new SQL Server 2012 login without SQL Server Management Studio?
+https://stackoverflow.com/questions/20483049/how-to-create-new-sql-server-2012-login-without-sql-server-management-studio
+
+Adding Mustaches to Webcam Feed with OpenCV and Python 
+https://sublimerobots.com/2015/02/dancing-mustaches/
+
+Look yourself in the mirror with Python and OpenCV
+https://dev.mikamai.com/2014/07/18/look-yourself-in-the-mirror-with-python-and-opencv/
+
+Python cv2.WND_PROP_FULLSCREEN() Examples 
+https://www.programcreek.com/python/example/72130/cv2.WND_PROP_FULLSCREEN
+
+Flip Image OpenCV Python
+https://scottontechnology.com/flip-image-opencv-python/

@@ -39,3 +39,27 @@ http://answers.opencv.org/question/39160/opencv_traincascade-parameters-explanat
 
 OpenCV upper body and lower body detection. 
 https://www.edaboard.com/showthread.php?217494-OpenCV-upper-body-and-lower-body-detection
+
+Train Your Own OpenCV Haar Classifier
+https://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html
+
+Display a streamed video in full screen Opencv3
+http://answers.opencv.org/question/198479/display-a-streamed-video-in-full-screen-opencv3/
+
+video frames in reverse order
+http://answers.opencv.org/question/11584/video-frames-in-reverse-order/
+
+Error setting fullscreen property of cv2 window
+https://stackoverflow.com/questions/25469272/error-setting-fullscreen-property-of-cv2-window
+
+Python OpenCV - show a video in a Tkinter window
+https://solarianprogrammer.com/2018/04/21/python-opencv-show-video-tkinter-window/
+
+Resize the OpenCV Window According to the Screen Resolution 
+https://www.life2coding.com/resize-opencv-window-according-screen-resolution/
+
+overlay a smaller image on a larger image python OpenCv
+https://stackoverflow.com/questions/14063070/overlay-a-smaller-image-on-a-larger-image-python-opencv
+
+Implementing face detection using the Haar Cascades and AdaBoost algorithm
+https://hub.packtpub.com/implementing-face-detection-using-haar-cascades-adaboost-algorithm/
