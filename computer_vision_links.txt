@@ -22,6 +22,10 @@ https://southcentralus.dev.cognitive.microsoft.com/docs/services/d9a10a4a5f85495
 How to choose the cascade file for face detection?
 https://stackoverflow.com/questions/4440283/how-to-choose-the-cascade-file-for-face-detection
 
+Resizing the output window of imshow function
+http://answers.opencv.org/question/84985/resizing-the-output-window-of-imshow-function/
+
+
 Face & Body Detection — OpenCV + Python
 https://medium.com/@rahulvaish/face-body-detection-opencv-python-fe9194ed9f52
 
@@ -63,3 +67,15 @@ https://stackoverflow.com/questions/14063070/overlay-a-smaller-image-on-a-larger
 
 Implementing face detection using the Haar Cascades and AdaBoost algorithm
 https://hub.packtpub.com/implementing-face-detection-using-haar-cascades-adaboost-algorithm/
+
+Viola-Jones Face Detection
+https://sites.google.com/site/5kk73gpu2012/assignment/viola-jones-face-detection#TOC-Image-Pyramid
+
+Face Detection using Haar Cascades
+https://docs.opencv.org/3.4.3/d7/d8b/tutorial_py_face_detection.html
+
+Meaning of Parameters of detectMultiScale(a, b, c)
+https://stackoverflow.com/questions/51132674/meaning-of-parameters-of-detectmultiscalea-b-c
+
+OpenCV detectMultiScale() minNeighbors parameter
+https://stackoverflow.com/questions/22249579/opencv-detectmultiscale-minneighbors-parameter
