@@ -15,3 +15,25 @@ https://whoosh.readthedocs.io/en/latest/threads.html
 
 PyMVPA: A Python toolbox for multivariate pattern analysis of fMRI data
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2664559/
+
+
+Hillary Clinton Email Dataset
+https://www.kaggle.com/general/16444
+
+CLAIR collection of "Nigerian" fraud emails
+https://www.kaggle.com/rtatman/fraudulent-email-corpus
+
+How I used machine learning to classify emails and turn them into insights (part 1).
+https://towardsdatascience.com/how-i-used-machine-learning-to-classify-emails-and-turn-them-into-insights-efed37c1e66
+
+Apply Machine Learning to Email Campaign
+https://weiminwang.blog/2016/12/22/apply-machine-learning-to-email-campaign/
+
+How to Apply Machine Learning to Business Problems
+https://www.techemergence.com/how-to-apply-machine-learning-to-business-problems/
+
+Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas 
+https://github.com/NirantK/awesome-project-ideas
+
+Machine Learning Algorithm Mines 16 Billion E-Mails
+https://www.technologyreview.com/s/536586/machine-learning-algorithm-mines-16-billion-e-mails/

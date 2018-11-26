@@ -33,3 +33,12 @@ https://rquintino.wordpress.com/2015/02/25/how-azureml-and-machinelearning-are-h
 
 Create a VNet with a Site-to-Site VPN connection using PowerShell
 https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-create-site-to-site-rm-powershell
+
+How #AzureML and #MachineLearning are helping managing my Inbox–Part I
+https://rquintino.wordpress.com/2015/02/25/how-azureml-and-machinelearning-are-helping-managing-my-inboxpart-i/
+
+Email Classification for Automated Support Ticket Generation: Step 1 of 2, Train  and Evaluate Models
+https://gallery.azure.ai/Experiment/38e9d03fec40429fb026c3bef6037d03
+
+The Enron Email Dataset
+https://www.kaggle.com/ianleonard/ian-leonard-enron-email-analysis/data
