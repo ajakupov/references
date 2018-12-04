@@ -289,3 +289,15 @@ https://www.programcreek.com/python/example/72130/cv2.WND_PROP_FULLSCREEN
 
 Flip Image OpenCV Python
 https://scottontechnology.com/flip-image-opencv-python/
+
+Installing MacOS to VirtualBox
+https://medium.com/@twister.mr/installing-macos-to-virtualbox-1fcc5cf22801
+
+How to Install macOS High Sierra in VirtualBox on Windows 10
+https://www.howtogeek.com/289594/how-to-install-macos-sierra-in-virtualbox-on-windows-10/
+
+Keyword extraction: a review of methods and approaches
+https://pdfs.semanticscholar.org/bdbf/25f3dcf63d38cdb527a9ffca269fa0b8046b.pdf
+
+Using latent semantic analysis for automated keyword extraction from large document corpora
+http://journals.tubitak.gov.tr/elektrik/issues/elk-17-25-3/elk-25-3-15-1511-203.pdf

@@ -42,3 +42,18 @@ https://gallery.azure.ai/Experiment/38e9d03fec40429fb026c3bef6037d03
 
 The Enron Email Dataset
 https://www.kaggle.com/ianleonard/ian-leonard-enron-email-analysis/data
+
+Briefing MS knowledge
+https://www.briefmenow.org/microsoft/which-machine-learning-library-should-you-use/
+
+Score Matchbox Recommender
+https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/score-matchbox-recommender#RatingPredictionOptions
+
+Quickstart: Handle data types and objects using R in SQL Server
+https://docs.microsoft.com/en-us/sql/advanced-analytics/tutorials/rtsql-r-and-sql-data-types-and-data-objects?view=sql-server-2017
+
+Binary Classification: Flight delay prediction
+https://gallery.azure.ai/Experiment/Binary-Classification-Flight-delay-prediction-3
+
+Azure/Azure-MachineLearning-ClientLibrary-Python
+https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python
