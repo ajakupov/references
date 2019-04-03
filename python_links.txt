@@ -9,3 +9,12 @@ https://stackoverflow.com/questions/31808180/installing-pyinstaller-via-pip-lead
 
 Installing pyinstaller via pip leads to “failed to create process”
 https://stackoverflow.com/questions/31808180/installing-pyinstaller-via-pip-leads-to-failed-to-create-process
+
+List dependencies in Python
+https://stackoverflow.com/questions/42237072/list-dependencies-in-python
+
+Python Flask API - post and receive bytearray and metadata
+https://stackoverflow.com/questions/51356287/python-flask-api-post-and-receive-bytearray-and-metadata
+
+Flask – Application
+https://www.tutorialspoint.com/flask/flask_application.htm

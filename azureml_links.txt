@@ -57,3 +57,9 @@ https://gallery.azure.ai/Experiment/Binary-Classification-Flight-delay-predictio
 
 Azure/Azure-MachineLearning-ClientLibrary-Python
 https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python
+
+JFK files project
+https://jfk-demo.azurewebsites.net/#/search
+
+How to move your Limited Trial project to Azure using the CustomVision.ai site
+https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/move-your-project-to-azure

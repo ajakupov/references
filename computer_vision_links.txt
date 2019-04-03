@@ -25,7 +25,6 @@ https://stackoverflow.com/questions/4440283/how-to-choose-the-cascade-file-for-f
 Resizing the output window of imshow function
 http://answers.opencv.org/question/84985/resizing-the-output-window-of-imshow-function/
 
-
 Face & Body Detection — OpenCV + Python
 https://medium.com/@rahulvaish/face-body-detection-opencv-python-fe9194ed9f52
 
@@ -79,3 +78,33 @@ https://stackoverflow.com/questions/51132674/meaning-of-parameters-of-detectmult
 
 OpenCV detectMultiScale() minNeighbors parameter
 https://stackoverflow.com/questions/22249579/opencv-detectmultiscale-minneighbors-parameter
+
+Build your own image classifier using Transfer Learning
+https://docs.microsoft.com/en-us/cognitive-toolkit/Build-your-own-image-classifier-using-Transfer-Learning
+
+Машинное обучение и шоколадные конфеты
+https://habr.com/company/microsoft/blog/345452/
+
+Voice and hand gesture recognition
+https://rdmilligan.wordpress.com/2015/03/29/voice-and-hand-gesture-recognition/
+
+Guitar detection using OpenCV
+https://rdmilligan.wordpress.com/2014/05/13/guitar-detection-using-opencv/
+
+Detecting a nose
+https://subscription.packtpub.com/book/application_development/9781785283932/4/ch04lvl1sec43/detecting-a-nose
+
+CS231n: Convolutional Neural Networks for Visual Recognition
+http://cs231n.stanford.edu/index.html
+
+Training Haar Cascades
+https://memememememememe.me/post/training-haar-cascades/
+
+Creating your own Haar Cascade OpenCV Python Tutorial
+https://pythonprogramming.net/haar-cascade-object-detection-python-opencv-tutorial/
+
+How to create a beautiful pencil sketch effect with OpenCV and Python 
+http://www.askaswiss.com/2016/01/how-to-create-pencil-sketch-opencv-python.html
+
+Non-Photorealistic Rendering using OpenCV ( Python, C++ )
+https://www.learnopencv.com/non-photorealistic-rendering-using-opencv-python-c/

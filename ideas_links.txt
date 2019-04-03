@@ -53,3 +53,17 @@ http://www.lemagit.fr/definition/Data-Storytelling
 Intelligence Augmentée : Du Prédictif au Prescriptif
 https://www.decideo.fr/Intelligence-Augmentee-Du-Predictif-au-Prescriptif_a9957.html
 
+OpenSource photos
+https://www.pexels.com/search/neural/
+
+Modèle lettre engagement
+https://adcifreshs.wordpress.com/modeles-de-lettres-dengagement/
+
+Get started with Microsoft Academic Knowledge Exploration Service
+https://docs.microsoft.com/fr-fr/academic-services/knowledge-exploration-service/get-started-setup-provisioning
+
+Why are there 32-bit editions of Windows 8? [closed]
+https://superuser.com/questions/719102/why-are-there-32-bit-editions-of-windows-8
+
+Academic Knowledge API
+https://docs.microsoft.com/en-us/azure/cognitive-services/academic-knowledge/home#feedback

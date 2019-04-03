@@ -156,3 +156,9 @@ https://www.data.gouv.fr/en/datasets/service-public-fr-actualites-particuliers/#
 
 WikipediaFR2008 Corpus
 http://redac.univ-tlse2.fr/corpora/wikipedia_en.html
+
+Introduction to the RKEA Package
+https://cran.r-project.org/web/packages/RKEA/vignettes/kea.pdf
+
+R RKEA - Not enough training instances with class labels (required: 1, provided: 0)!
+https://stackoverflow.com/questions/46792053/r-rkea-not-enough-training-instances-with-class-labels-required-1-provided/48121519

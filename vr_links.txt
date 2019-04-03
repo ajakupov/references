@@ -1,0 +1,17 @@
+MR and Azure 304: Face recognition
+https://docs.microsoft.com/en-us/windows/mixed-reality/mr-azure-304
+
+MR and Azure 302b: Custom vision
+https://docs.microsoft.com/en-us/windows/mixed-reality/mr-azure-302b
+
+Image Processing in Python from Unity Hololens Development
+https://stackoverflow.com/questions/51214972/image-processing-in-python-from-unity-hololens-development
+
+Hololens TCP Sockets - Python Client to Hololens Server
+https://stackoverflow.com/questions/51411832/hololens-tcp-sockets-python-client-to-hololens-server
+
+Using the Windows Device Portal
+https://docs.microsoft.com/en-us/windows/mixed-reality/using-the-windows-device-portal#file_explorer
+
+Windows Mixed Reality Developer Forum
+https://forums.hololens.com/discussion/1679/file-copy

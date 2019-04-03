@@ -34,3 +34,9 @@ https://stackoverflow.com/questions/30694433/how-to-give-browser-save-image-as-o
 
 Tutorial: Build an Interactive Virtual Globe with Three.js
 https://levelup.gitconnected.com/tutorial-build-an-interactive-virtual-globe-with-three-js-33cf7c2090cb
+
+Electron disable specific camera device access or set default webcam
+https://stackoverflow.com/questions/38532709/electron-disable-specific-camera-device-access-or-set-default-webcam
+
+How To Find the USB ID of a Camera
+http://qce-ga.sourceforge.net/howto-usbid.html

@@ -88,3 +88,6 @@ https://stackoverflow.com/questions/51859000/regional-settings-conflicting-with-
 
 real-time plotting in while loop with matplotlib
 https://stackoverflow.com/questions/11874767/real-time-plotting-in-while-loop-with-matplotlib
+
+Push data into a Power BI dataset
+https://docs.microsoft.com/en-us/power-bi/developer/walkthrough-push-data
