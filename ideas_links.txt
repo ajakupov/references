@@ -67,3 +67,18 @@ https://superuser.com/questions/719102/why-are-there-32-bit-editions-of-windows-
 
 Academic Knowledge API
 https://docs.microsoft.com/en-us/azure/cognitive-services/academic-knowledge/home#feedback
+
+Kaggle – наша экскурсия в царство оверфита
+https://habr.com/ru/post/307078/
+
+Как начать работу в Kaggle: руководство для новичков в Data Science
+https://habr.com/ru/post/248395/
+
+Kaggle. Предсказание продаж, в зависимости от погодных условий
+https://habr.com/ru/post/264653/
+
+Как попасть в топ на Kaggle, или Матрикснет в домашних условиях
+https://habr.com/ru/post/254151/
+
+Kaggle: История о том как мы учились предсказывать релевантность поисковых запросов и заняли 3-е место
+https://habr.com/ru/post/305026/

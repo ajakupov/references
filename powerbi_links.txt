@@ -91,3 +91,9 @@ https://stackoverflow.com/questions/11874767/real-time-plotting-in-while-loop-wi
 
 Push data into a Power BI dataset
 https://docs.microsoft.com/en-us/power-bi/developer/walkthrough-push-data
+
+Web.Contents(), M Functions And Dataset Refresh Errors In Power BI
+https://blog.crossjoin.co.uk/2016/08/23/web-contents-m-functions-and-dataset-refresh-errors-in-power-bi/
+
+Calling AML from Power BI
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/9826b0a7-ef58-4550-b796-06680aaedf51/calling-aml-from-power-bi?forum=MachineLearning

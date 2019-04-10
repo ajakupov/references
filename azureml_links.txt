@@ -63,3 +63,12 @@ https://jfk-demo.azurewebsites.net/#/search
 
 How to move your Limited Trial project to Azure using the CustomVision.ai site
 https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/move-your-project-to-azure
+
+R developer's guide to Azure
+https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/r-developers-guide
+
+How to Diagnose Overfitting and Underfitting of LSTM Models
+https://machinelearningmastery.com/diagnose-overfitting-underfitting-lstm-models/
+
+MicrosoftDocs/azure-docs
+https://github.com/MicrosoftDocs/azure-docs/tree/master/articles/cognitive-services/Custom-Vision-Service
