@@ -72,3 +72,6 @@ https://machinelearningmastery.com/diagnose-overfitting-underfitting-lstm-models
 
 MicrosoftDocs/azure-docs
 https://github.com/MicrosoftDocs/azure-docs/tree/master/articles/cognitive-services/Custom-Vision-Service
+
+Feature Selection modules
+https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/feature-selection-modules

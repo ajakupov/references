@@ -1,0 +1,2 @@
+Enough Is Enough! Handling Multicollinearity in Regression Analysis
+https://blog.minitab.com/blog/understanding-statistics/handling-multicollinearity-in-regression-analysis
