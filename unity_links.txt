@@ -1,0 +1,11 @@
+How can I get a parent GameObject of gameObject using Javascript?
+https://answers.unity.com/questions/12301/how-can-i-get-a-parent-gameobject-of-gameobject-us.html
+
+How to create your first HoloLens app with Unity
+https://medium.freecodecamp.org/how-to-create-your-first-hololens-app-with-unity-1afa364843d4
+
+Making an Agent Patrol Between a Set of Points
+https://docs.unity3d.com/Manual/nav-AgentPatrol.html
+
+How do I convert longitude and latitude coordinates to Vector3 coordinates?
+https://forum.unity.com/threads/how-do-i-convert-longitude-and-latitude-coordinates-to-vector3-coordinates.483777/

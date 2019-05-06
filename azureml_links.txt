@@ -75,3 +75,9 @@ https://github.com/MicrosoftDocs/azure-docs/tree/master/articles/cognitive-servi
 
 Feature Selection modules
 https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/feature-selection-modules
+
+How could I save dataset from Python Notebook?
+https://social.msdn.microsoft.com/Forums/en-US/7ff443f7-16f0-49d7-899c-e89133cd9385/how-could-i-save-dataset-from-python-notebook?forum=MachineLearning
+
+How could I save dataset from ipython notebook in Azure ML Studio?
+https://stackoverflow.com/questions/35973168/how-could-i-save-dataset-from-ipython-notebook-in-azure-ml-studio

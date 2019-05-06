@@ -40,3 +40,6 @@ https://stackoverflow.com/questions/38532709/electron-disable-specific-camera-de
 
 How To Find the USB ID of a Camera
 http://qce-ga.sourceforge.net/howto-usbid.html
+
+How do I insert code examples into an HTML file?
+https://stackoverflow.com/questions/4707878/how-do-i-insert-code-examples-into-an-html-file

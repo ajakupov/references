@@ -16,7 +16,6 @@ https://whoosh.readthedocs.io/en/latest/threads.html
 PyMVPA: A Python toolbox for multivariate pattern analysis of fMRI data
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2664559/
 
-
 Hillary Clinton Email Dataset
 https://www.kaggle.com/general/16444
 
@@ -82,3 +81,6 @@ https://habr.com/ru/post/254151/
 
 Kaggle: История о том как мы учились предсказывать релевантность поисковых запросов и заняли 3-е место
 https://habr.com/ru/post/305026/
+
+Welcome to Learn Git Branching
+https://learngitbranching.js.org/
