@@ -1,0 +1,17 @@
+How can I get the actual stored procedure line number from an error message?
+https://stackoverflow.com/questions/4565614/how-can-i-get-the-actual-stored-procedure-line-number-from-an-error-message
+
+SQL Server - Create a copy of a database table and place it in the same database?
+https://stackoverflow.com/questions/15428168/sql-server-create-a-copy-of-a-database-table-and-place-it-in-the-same-database
+
+Get the number of digits after the decimal point of a float (with or without decimal part)
+https://stackoverflow.com/questions/37024739/get-the-number-of-digits-after-the-decimal-point-of-a-float-with-or-without-dec
+
+Arithmetic overflow error converting numeric to data type numeric
+http://www.sql-server-helper.com/error-messages/msg-8115-numeric-to-numeric.aspx
+
+Result to display in Tex Mode.
+https://www.sqlservercentral.com/forums/topic/result-to-display-in-tex-mode
+
+Go To Line Number in SQL Server Management Studio Query Editor Window
+http://zarez.net/?p=1938

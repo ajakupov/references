@@ -162,3 +162,15 @@ https://cran.r-project.org/web/packages/RKEA/vignettes/kea.pdf
 
 R RKEA - Not enough training instances with class labels (required: 1, provided: 0)!
 https://stackoverflow.com/questions/46792053/r-rkea-not-enough-training-instances-with-class-labels-required-1-provided/48121519
+
+If identifying text structure in PDF documents is so difficult, how do PDF readers do it so well?
+https://stackoverflow.com/questions/22675690/if-identifying-text-structure-in-pdf-documents-is-so-difficult-how-do-pdf-reade
+
+How to extract data from a PDF file while keeping track of its structure?
+https://stackoverflow.com/questions/937808/how-to-extract-data-from-a-pdf-file-while-keeping-track-of-its-structure
+
+python regex to replace all single word characters in string
+https://stackoverflow.com/questions/42066352/python-regex-to-replace-all-single-word-characters-in-string/42066867
+
+Quickstart: Extract printed text (OCR) using the REST API and Python in Computer Vision
+https://docs.microsoft.com/bs-latn-ba/azure/cognitive-services/computer-vision/quickstarts/python-print-text

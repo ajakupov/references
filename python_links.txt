@@ -18,3 +18,15 @@ https://stackoverflow.com/questions/51356287/python-flask-api-post-and-receive-b
 
 Flask – Application
 https://www.tutorialspoint.com/flask/flask_application.htm
+
+SMOTE initialisation expects n_neighbors <= n_samples, but n_samples < n_neighbors
+https://stackoverflow.com/questions/49395939/smote-initialisation-expects-n-neighbors-n-samples-but-n-samples-n-neighbo
+
+Sending string via socket (python)
+https://stackoverflow.com/questions/21233340/sending-string-via-socket-python
+
+how can we use both tcpSerSock.listen(0) and tcpSerSock.send(str.encode(message)) at the same time
+https://stackoverflow.com/questions/48205406/how-can-we-use-both-tcpsersock-listen0-and-tcpsersock-sendstr-encodemessage
+
+Python(Server) receiving Data from Java(client) In separate lines.. (TCP)
+https://stackoverflow.com/questions/56146955/pythonserver-receiving-data-from-javaclient-in-separate-lines-tcp/56147361?noredirect=1#comment98956958_56147361

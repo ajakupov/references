@@ -81,3 +81,9 @@ https://social.msdn.microsoft.com/Forums/en-US/7ff443f7-16f0-49d7-899c-e89133cd9
 
 How could I save dataset from ipython notebook in Azure ML Studio?
 https://stackoverflow.com/questions/35973168/how-could-i-save-dataset-from-ipython-notebook-in-azure-ml-studio
+
+SMOTE in r reducing sample size significantly
+https://stackoverflow.com/questions/54625093/smote-in-r-reducing-sample-size-significantly
+
+SMOTE explained for noobs - Synthetic Minority Over-sampling TEchnique line by line
+http://rikunert.com/SMOTE_explained

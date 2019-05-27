@@ -9,3 +9,36 @@ https://docs.unity3d.com/Manual/nav-AgentPatrol.html
 
 How do I convert longitude and latitude coordinates to Vector3 coordinates?
 https://forum.unity.com/threads/how-do-i-convert-longitude-and-latitude-coordinates-to-vector3-coordinates.483777/
+
+Unity and the dlls.
+https://answers.unity.com/questions/517264/unity-and-the-dlls.html
+
+CodePage 1252 not supported - works in editor but not in standalone player
+https://answers.unity.com/questions/42955/codepage-1252-not-supported-works-in-editor-but-no.html
+
+Create C# apps using SQL Server on Windows
+https://sqlchoice.azurewebsites.net/en-us/sql-server/developer-get-started/csharp/win/step/2.html
+
+Drawing a custom graphics line between two objects in 2D space.
+https://answers.unity.com/questions/1255334/drawing-a-custom-graphics-line-between-two-objects.html
+
+Canvas
+https://docs.unity3d.com/ScriptReference/Canvas.html
+
+Create Unity UI Panel via Script
+https://answers.unity.com/questions/1034060/create-unity-ui-panel-via-script.html
+
+How to create a canvas and text (UI 4.6) object using c#
+https://answers.unity.com/questions/849176/how-to-create-a-canvas-and-text-ui-46-object-using.html
+
+SQL Data Reader - handling Null column values
+https://stackoverflow.com/questions/1772025/sql-data-reader-handling-null-column-values
+
+Rich Text
+http://digitalnativestudios.com/textmeshpro/docs/rich-text/#mark
+
+How to set text background color?
+https://forum.unity.com/threads/how-to-set-text-background-color.570751/
+
+Unite Berlin 2018 - Text Mesh Pro for Runtime
+https://www.youtube.com/watch?v=YpUFxdoLWhA
