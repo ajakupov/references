@@ -15,3 +15,6 @@ https://www.sqlservercentral.com/forums/topic/result-to-display-in-tex-mode
 
 Go To Line Number in SQL Server Management Studio Query Editor Window
 http://zarez.net/?p=1938
+
+How to set a default value for an existing column
+https://stackoverflow.com/questions/6791675/how-to-set-a-default-value-for-an-existing-column

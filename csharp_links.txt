@@ -29,3 +29,27 @@ http://www.vcskicks.com/csharp_net_angles.php
 read from excel file
 https://coderwall.com/p/app3ya/read-excel-file-in-c
 http://csharp.net-informations.com/excel/csharp-read-excel.htm
+
+RichTextBox (WPF) does not have string property “Text”
+https://stackoverflow.com/questions/957441/richtextbox-wpf-does-not-have-string-property-text
+
+Wpf changing Visibility from code behind
+https://stackoverflow.com/questions/29062998/wpf-changing-visibility-from-code-behind
+
+Visual Studio Deployment Project - Create shortcut to deployed executable
+https://stackoverflow.com/questions/3303962/visual-studio-deployment-project-create-shortcut-to-deployed-executable
+
+Autocomplete combobox with TextSearch.TextPath and IsEditable
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/ece05297-5115-417f-8572-6fcae62cbeaf/autocomplete-combobox-with-textsearchtextpath-and-iseditable-?forum=wpf
+
+WPF Auto-complete Control
+https://www.codeproject.com/Articles/47481/WPF-Auto-complete-Control
+
+What is the simplest way to get the selected text in a combo box containing only text entries?
+https://stackoverflow.com/questions/3721430/what-is-the-simplest-way-to-get-the-selected-text-in-a-combo-box-containing-only
+
+Add items to comboBox in WPF
+https://stackoverflow.com/questions/11878217/add-items-to-combobox-in-wpf
+
+SQL update statement in C#
+https://stackoverflow.com/questions/15246182/sql-update-statement-in-c-sharp
