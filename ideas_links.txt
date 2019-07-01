@@ -84,3 +84,6 @@ https://habr.com/ru/post/305026/
 
 Welcome to Learn Git Branching
 https://learngitbranching.js.org/
+
+Work with NoSQL data in Azure Cosmos DB
+https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/

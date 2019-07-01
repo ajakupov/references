@@ -174,3 +174,9 @@ https://stackoverflow.com/questions/42066352/python-regex-to-replace-all-single-
 
 Quickstart: Extract printed text (OCR) using the REST API and Python in Computer Vision
 https://docs.microsoft.com/bs-latn-ba/azure/cognitive-services/computer-vision/quickstarts/python-print-text
+
+How to parse for tags with '+' in python
+https://stackoverflow.com/questions/1048541/how-to-parse-for-tags-with-in-python
+
+Split string with multiple delimiters in Python [duplicate]
+https://stackoverflow.com/questions/4998629/split-string-with-multiple-delimiters-in-python?rq=1
