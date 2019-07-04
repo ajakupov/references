@@ -1,0 +1,23 @@
+Quick Look – Benefits of Microsoft R and ML Services (R Server)
+https://tsmatz.wordpress.com/2017/02/01/microsoft-r-open-microsoft-r-server-microsoft-r-client/
+
+How to Install and Configure RStudio
+https://www.dummies.com/programming/r/how-to-install-and-configure-rstudio/
+
+system.time
+https://www.rdocumentation.org/packages/base/versions/3.6.0/topics/system.time
+
+What are 'user' and 'system' times measuring in R system.time(exp) output?
+https://stackoverflow.com/questions/5688949/what-are-user-and-system-times-measuring-in-r-system-timeexp-output
+
+proc.time
+https://www.rdocumentation.org/packages/base/versions/3.6.0/topics/proc.time
+
+The Benefits of Multithreaded Performance with Microsoft R Open
+https://mran.microsoft.com/documents/rro/multithread
+
+Installing Microsoft R Open
+https://mran.microsoft.com/documents/rro/installation
+
+Download Microsoft R Open 3.5.3
+https://mran.microsoft.com/download
