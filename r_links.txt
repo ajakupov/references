@@ -24,3 +24,6 @@ https://mran.microsoft.com/download
 
 A Data Scientist’s Perspective on Microsoft R
 https://www.r-bloggers.com/a-data-scientists-perspective-on-microsoft-r/
+
+SparkR and Sparking Water
+https://rpubs.com/wendyu/sparkr
