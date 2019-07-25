@@ -1,13 +1,13 @@
 Python: How to import other Python files
 https://stackoverflow.com/questions/2349991/python-how-to-import-other-python-files
 
-Does Python have ìprivateî variables in classes?
+Does Python have ‚Äúprivate‚Äù variables in classes?
 https://stackoverflow.com/questions/1641219/does-python-have-private-variables-in-classes
 
-Installing pyinstaller via pip leads to ìfailed to create processî
+Installing pyinstaller via pip leads to ‚Äúfailed to create process‚Äù
 https://stackoverflow.com/questions/31808180/installing-pyinstaller-via-pip-leads-to-failed-to-create-process
 
-Installing pyinstaller via pip leads to ìfailed to create processî
+Installing pyinstaller via pip leads to ‚Äúfailed to create process‚Äù
 https://stackoverflow.com/questions/31808180/installing-pyinstaller-via-pip-leads-to-failed-to-create-process
 
 List dependencies in Python
@@ -16,7 +16,7 @@ https://stackoverflow.com/questions/42237072/list-dependencies-in-python
 Python Flask API - post and receive bytearray and metadata
 https://stackoverflow.com/questions/51356287/python-flask-api-post-and-receive-bytearray-and-metadata
 
-Flask ñ Application
+Flask ‚Äì Application
 https://www.tutorialspoint.com/flask/flask_application.htm
 
 SMOTE initialisation expects n_neighbors <= n_samples, but n_samples < n_neighbors
@@ -39,3 +39,15 @@ https://github.com/modflowpy/flopy/issues/286
 
 Why Python 3.6.1 throws AttributeError: module 'enum' has no attribute 'IntFlag'?
 https://stackoverflow.com/questions/43124775/why-python-3-6-1-throws-attributeerror-module-enum-has-no-attribute-intflag
+
+Python module win32com on Linux
+https://stackoverflow.com/questions/20927131/python-module-win32com-on-linux
+
+Read .doc file with python
+https://stackoverflow.com/questions/36001482/read-doc-file-with-python/50796141#50796141
+
+can't open a .docx file
+https://github.com/python-openxml/python-docx/issues/229
+
+How to read Excel files from a stream (not a disk-backed file) in Python?
+https://stackoverflow.com/questions/11955300/how-to-read-excel-files-from-a-stream-not-a-disk-backed-file-in-python/14418409
