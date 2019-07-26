@@ -180,3 +180,9 @@ https://stackoverflow.com/questions/1048541/how-to-parse-for-tags-with-in-python
 
 Split string with multiple delimiters in Python [duplicate]
 https://stackoverflow.com/questions/4998629/split-string-with-multiple-delimiters-in-python?rq=1
+
+Find 1 letter and 2 numbers using RegEx
+https://stackoverflow.com/questions/20003025/find-1-letter-and-2-numbers-using-regex
+
+Data Augmentation for Text Data:Obtain more data faster
+https://towardsdatascience.com/data-augmentation-for-text-data-obtain-more-data-faster-525f7957acc9
