@@ -21,3 +21,6 @@ https://partners.sigfox.com/products/azure-iot-suite-predictive-maintenance
 
 Azure IoT Suite Remote Monitoring
 https://partners.sigfox.com/products/azure-iot-suite-remote-monitoring
+
+Communicate with your IoT hub using the MQTT protocol
+https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-mqtt-support

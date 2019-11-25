@@ -108,3 +108,12 @@ http://www.askaswiss.com/2016/01/how-to-create-pencil-sketch-opencv-python.html
 
 Non-Photorealistic Rendering using OpenCV ( Python, C++ )
 https://www.learnopencv.com/non-photorealistic-rendering-using-opencv-python-c/
+
+imagenet-camera on my logitech hd webcam 270 crashed with Segmentation fault (core dumped)
+https://devtalk.nvidia.com/default/topic/1057554/jetson-nano/imagenet-camera-on-my-logitech-hd-webcam-270-crashed-with-segmentation-fault-core-dumped-/
+
+Comment installer OpenCV 4 sur un Jetson Nano
+https://pymotion.com/comment-installer-opencv-4-sur-un-jetson-nano/
+
+Getting started with the NVIDIA Jetson Nano
+https://www.pyimagesearch.com/2019/05/06/getting-started-with-the-nvidia-jetson-nano/?submitted_comment=1#comment-545625

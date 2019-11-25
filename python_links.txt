@@ -51,3 +51,18 @@ https://github.com/python-openxml/python-docx/issues/229
 
 How to read Excel files from a stream (not a disk-backed file) in Python?
 https://stackoverflow.com/questions/11955300/how-to-read-excel-files-from-a-stream-not-a-disk-backed-file-in-python/14418409
+
+Replacing Delimiter In CSV Files with Python
+https://stackoverflow.com/questions/54916686/replacing-delimiter-in-csv-files-with-python
+
+Convert BytesIO into File
+https://stackoverflow.com/questions/29324037/convert-bytesio-into-file
+
+Running a notebook server
+https://jupyter-notebook.readthedocs.io/en/stable/public_server.html#notebook-server-security
+
+access jupyter notebook running on vm
+https://stackoverflow.com/questions/38545198/access-jupyter-notebook-running-on-vm
+
+How to Install, Run, and Connect to Jupyter Notebook on a Remote Server
+https://www.digitalocean.com/community/tutorials/how-to-install-run-connect-to-jupyter-notebook-on-remote-server

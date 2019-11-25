@@ -186,3 +186,6 @@ https://stackoverflow.com/questions/20003025/find-1-letter-and-2-numbers-using-r
 
 Data Augmentation for Text Data:Obtain more data faster
 https://towardsdatascience.com/data-augmentation-for-text-data-obtain-more-data-faster-525f7957acc9
+
+annotation examples in brat
+https://brat.nlplab.org/examples.html

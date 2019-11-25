@@ -87,3 +87,18 @@ https://learngitbranching.js.org/
 
 Work with NoSQL data in Azure Cosmos DB
 https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/
+
+Form Recognizer documentation
+https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/
+
+Разработка разговорных интерфейсов с искусственным интеллектом
+http://ailabs.kz/
+
+Как привлечь инвестиции в Кремниевой долине и о пользе зарубежных выставок на примере стартапа AI Labs
+https://vc.ru/flood/39967-kak-privlech-investicii-v-kremnievoy-doline-i-o-polze-zarubezhnyh-vystavok-na-primere-startapa-ai-labs?fbclid=IwAR2U18q0W3N8Zg3STUwCLRZ-EAdy-JFCDcwzyICwbAkWMhy4koM0fLgRL3Q
+
+Astana Hub
+https://astanahub.com/
+
+Автономный кластерный фонд
+https://techgarden.kz/ru/about
