@@ -304,3 +304,9 @@ http://journals.tubitak.gov.tr/elektrik/issues/elk-17-25-3/elk-25-3-15-1511-203.
 
 How do I turn on “always-on” for an Azure Function?
 https://stackoverflow.com/questions/39430932/how-do-i-turn-on-always-on-for-an-azure-function
+
+Docker in Azure VM
+https://blogs.msdn.microsoft.com/azuredev/2018/09/09/docker-in-azure-vm/
+
+How to Install Docker On Ubuntu 18.04 Bionic Beaver
+https://phoenixnap.com/kb/how-to-install-docker-on-ubuntu-18-04

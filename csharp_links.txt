@@ -53,3 +53,6 @@ https://stackoverflow.com/questions/11878217/add-items-to-combobox-in-wpf
 
 SQL update statement in C#
 https://stackoverflow.com/questions/15246182/sql-update-statement-in-c-sharp
+
+Serializing/deserializing with memory stream
+https://stackoverflow.com/questions/10390356/serializing-deserializing-with-memory-stream
