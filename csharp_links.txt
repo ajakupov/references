@@ -56,3 +56,15 @@ https://stackoverflow.com/questions/15246182/sql-update-statement-in-c-sharp
 
 Serializing/deserializing with memory stream
 https://stackoverflow.com/questions/10390356/serializing-deserializing-with-memory-stream
+
+Documentation comments
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/documentation-comments
+
+How to automatically generate comments in Visual Studio 2010 and C#?
+https://stackoverflow.com/questions/5301330/how-to-automatically-generate-comments-in-visual-studio-2010-and-c
+
+How to use Azure Cognitive Search from a .NET Application
+https://docs.microsoft.com/en-us/azure/search/search-howto-dotnet-sdk
+
+HTTP routing
+https://docs.microsoft.com/en-us/sandbox/functions-recipes/routes?tabs=csharp
