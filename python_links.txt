@@ -66,3 +66,21 @@ https://stackoverflow.com/questions/38545198/access-jupyter-notebook-running-on-
 
 How to Install, Run, and Connect to Jupyter Notebook on a Remote Server
 https://www.digitalocean.com/community/tutorials/how-to-install-run-connect-to-jupyter-notebook-on-remote-server
+
+Convert Non-Searchable Pdf to Searchable Pdf in Windows Python
+https://stackoverflow.com/questions/51949231/convert-non-searchable-pdf-to-searchable-pdf-in-windows-python
+
+Convert Non-Searchable Pdf to Searchable Pdf in Windows Python
+https://stackoverflow.com/questions/51949231/convert-non-searchable-pdf-to-searchable-pdf-in-windows-python
+
+Add invisible text to pdf using python or java to make searchable pdf
+https://stackoverflow.com/questions/57814343/add-invisible-text-to-pdf-using-python-or-java-to-make-searchable-pdf
+
+Generate Searchable PDFs using Docker and Azure in 15 minutes
+http://martyice.github.io/docker-in-azure/
+
+Reducing the size of pdf figure file in matplotlib
+https://stackoverflow.com/questions/10685495/reducing-the-size-of-pdf-figure-file-in-matplotlib
+
+PIL png resize to smaller resolution makes file size bigger
+https://stackoverflow.com/questions/17002490/pil-png-resize-to-smaller-resolution-makes-file-size-bigger

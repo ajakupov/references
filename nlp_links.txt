@@ -189,3 +189,18 @@ https://towardsdatascience.com/data-augmentation-for-text-data-obtain-more-data-
 
 annotation examples in brat
 https://brat.nlplab.org/examples.html
+
+nlplab / brat
+https://github.com/nlplab/brat
+
+A platform for collaborative semantic annotation
+https://dl.acm.org/doi/10.5555/2380921.2380940
+
+Collaborative Web-Based Tools for Multi-layer Text Annotation
+https://link.springer.com/chapter/10.1007/978-94-024-0881-2_8
+
+mini-introduction to brat
+https://brat.nlplab.org/introduction.html
+
+huggingface / transformers
+https://github.com/huggingface/transformers/releases
