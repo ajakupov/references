@@ -117,3 +117,6 @@ https://pymotion.com/comment-installer-opencv-4-sur-un-jetson-nano/
 
 Getting started with the NVIDIA Jetson Nano
 https://www.pyimagesearch.com/2019/05/06/getting-started-with-the-nvidia-jetson-nano/?submitted_comment=1#comment-545625
+
+Компьютерное зрение на примере приложения для IKEA. Часть 1
+https://habr.com/ru/post/327704/
