@@ -84,3 +84,15 @@ https://stackoverflow.com/questions/10685495/reducing-the-size-of-pdf-figure-fil
 
 PIL png resize to smaller resolution makes file size bigger
 https://stackoverflow.com/questions/17002490/pil-png-resize-to-smaller-resolution-makes-file-size-bigger
+
+Pandas conditional creation of a series/dataframe column
+https://stackoverflow.com/questions/19913659/pandas-conditional-creation-of-a-series-dataframe-column
+
+MemoryError when I merge two Pandas data frames
+https://stackoverflow.com/questions/47386405/memoryerror-when-i-merge-two-pandas-data-frames
+
+How do I calculate the date six months from the current date using the datetime Python module?
+https://stackoverflow.com/questions/546321/how-do-i-calculate-the-date-six-months-from-the-current-date-using-the-datetime
+
+How to get the max value of a multiple column group-by pandas?
+https://stackoverflow.com/questions/26789935/how-to-get-the-max-value-of-a-multiple-column-group-by-pandas
