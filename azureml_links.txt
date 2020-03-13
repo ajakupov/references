@@ -87,3 +87,15 @@ https://stackoverflow.com/questions/54625093/smote-in-r-reducing-sample-size-sig
 
 SMOTE explained for noobs - Synthetic Minority Over-sampling TEchnique line by line
 http://rikunert.com/SMOTE_explained
+
+Configure automated ML experiments in Python
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-train
+
+Use the CLI extension for Azure Machine Learning
+https://docs.microsoft.com/en-us/azure/machine-learning/reference-azure-machine-learning-cli
+
+Manage access to an Azure Machine Learning workspace
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-assign-roles
+
+InterpretML - Alpha Release
+https://github.com/interpretml/interpret
