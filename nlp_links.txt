@@ -204,3 +204,24 @@ https://brat.nlplab.org/introduction.html
 
 huggingface / transformers
 https://github.com/huggingface/transformers/releases
+
+Machine teaching with Dr. Patrice Simard
+https://www.youtube.com/watch?v=IJC0toAlmYs
+
+Machine teaching, LUIS and the democratization of custom AI with Dr. Riham Mansour 
+https://www.microsoft.com/en-us/research/blog/machine-teaching-luis-and-the-democratization-of-custom-ai-with-dr-riham-mansour/
+
+Patrice Simard: Machine Teaching
+https://www.youtube.com/watch?v=YqKMjaOGi2Q
+
+Machine Teaching Overview
+https://www.youtube.com/watch?v=3nlxPMpr_JQ
+
+Machine Teaching Demo
+https://www.youtube.com/watch?v=KlTlWyA8yXo
+
+Machine teaching with Dr. Patrice Simard
+https://www.microsoft.com/en-us/research/blog/machine-teaching-with-dr-patrice-simard/
+
+Simplifying Machine Learning with Automated ML
+https://www.youtube.com/watch?v=samWIFxMHj4
