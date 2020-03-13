@@ -96,3 +96,12 @@ https://stackoverflow.com/questions/546321/how-do-i-calculate-the-date-six-month
 
 How to get the max value of a multiple column group-by pandas?
 https://stackoverflow.com/questions/26789935/how-to-get-the-max-value-of-a-multiple-column-group-by-pandas
+
+How to run multiple graphs in a Session - Tensorflow API
+https://stackoverflow.com/questions/46617667/how-to-run-multiple-graphs-in-a-session-tensorflow-api/60669105#60669105
+
+List of tensor names in graph in Tensorflow
+https://stackoverflow.com/questions/35336648/list-of-tensor-names-in-graph-in-tensorflow
+
+How do I get TensorFlow's 'import_graph_def' to return Tensors
+https://stackoverflow.com/questions/37146272/how-do-i-get-tensorflows-import-graph-def-to-return-tensors
