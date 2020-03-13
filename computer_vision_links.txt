@@ -120,3 +120,6 @@ https://www.pyimagesearch.com/2019/05/06/getting-started-with-the-nvidia-jetson-
 
 Компьютерное зрение на примере приложения для IKEA. Часть 1
 https://habr.com/ru/post/327704/
+
+Background removal with deep learning
+https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b3157
