@@ -1,0 +1,23 @@
+[pyspark] foreach + print produces no output
+https://forums.databricks.com/questions/27241/pyspark-foreach-print-produces-no-output.html
+
+Take n rows from a spark dataframe and pass to toPandas()
+https://stackoverflow.com/questions/40537782/take-n-rows-from-a-spark-dataframe-and-pass-to-topandas
+
+Applying a function in each row of a big PySpark dataframe?
+https://stackoverflow.com/questions/45877662/applying-a-function-in-each-row-of-a-big-pyspark-dataframe
+
+Pandas row to json
+https://stackoverflow.com/questions/36051134/pandas-row-to-json/36051289
+
+PySpark - Convert to JSON row by row
+https://stackoverflow.com/questions/48542089/pyspark-convert-to-json-row-by-row
+
+PySpark analytics samples for Microsoft Academic Graph
+https://docs.microsoft.com/en-us/academic-services/graph/samples-azure-databricks
+
+Tutorial: Compute author h-index using Azure Databricks
+https://docs.microsoft.com/en-us/academic-services/graph/tutorial-azure-databricks-hindex
+
+PySpark analytics samples for Microsoft Academic Graph
+https://docs.microsoft.com/en-us/academic-services/graph/samples-azure-databricks

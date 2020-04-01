@@ -105,3 +105,6 @@ https://stackoverflow.com/questions/35336648/list-of-tensor-names-in-graph-in-te
 
 How do I get TensorFlow's 'import_graph_def' to return Tensors
 https://stackoverflow.com/questions/37146272/how-do-i-get-tensorflows-import-graph-def-to-return-tensors
+
+A lot of Warnings when importing tensorflow
+https://stackoverflow.com/questions/57669786/a-lot-of-warnings-when-importing-tensorflow
