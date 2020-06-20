@@ -15,3 +15,18 @@ https://docs.microsoft.com/en-us/windows/mixed-reality/using-the-windows-device-
 
 Windows Mixed Reality Developer Forum
 https://forums.hololens.com/discussion/1679/file-copy
+
+AR Genius creates App to Cut & Paste objects from Mobile to Photoshop
+https://medium.com/the-programming-hub/ar-genius-creates-app-to-cut-paste-objects-from-mobile-to-photoshop-7a32d67be2f3
+
+Render 3D Objects in ARCore using GPS location?
+https://stackoverflow.com/questions/51888308/render-3d-objects-in-arcore-using-gps-location
+
+How to place a object without tapping on the screen
+https://stackoverflow.com/questions/51673733/how-to-place-a-object-without-tapping-on-the-screen
+
+appoly / ARCore-Location
+https://github.com/appoly/ARCore-Location
+
+ARCore Location – Android Studio
+https://www.appoly.co.uk/2018/03/28/arcore-location/

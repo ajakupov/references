@@ -27,3 +27,6 @@ https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-mqtt-support
 
 NVIDIA Jetson Nano .img pre-configured for Deep Learning and Computer Vision
 https://www.pyimagesearch.com/2020/03/04/nvidia-jetson-nano-img-pre-configured-for-deep-learning-and-computer-vision/
+
+Azure IoT reference architecture
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/iot

@@ -225,3 +225,6 @@ https://www.microsoft.com/en-us/research/blog/machine-teaching-with-dr-patrice-s
 
 Simplifying Machine Learning with Automated ML
 https://www.youtube.com/watch?v=samWIFxMHj4
+
+Deep Natural Language Processing course at the University of Oxford
+https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/README.md

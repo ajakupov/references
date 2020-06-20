@@ -68,3 +68,6 @@ https://docs.microsoft.com/en-us/azure/search/search-howto-dotnet-sdk
 
 HTTP routing
 https://docs.microsoft.com/en-us/sandbox/functions-recipes/routes?tabs=csharp
+
+How to read json file from blob storage using Azure Functions Blob Trigger with C#
+https://stackoverflow.com/questions/48405914/how-to-read-json-file-from-blob-storage-using-azure-functions-blob-trigger-with

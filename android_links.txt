@@ -24,3 +24,6 @@ https://medium.com/@the_manifest/how-to-publish-an-app-on-google-play-a-step-by-
 
 Send a string instead of byte through socket in Java
 https://stackoverflow.com/questions/17440795/send-a-string-instead-of-byte-through-socket-in-java
+
+Can't get Android DatePickerDialog to switch to Spinner mode
+https://stackoverflow.com/questions/44418149/cant-get-android-datepickerdialog-to-switch-to-spinner-mode

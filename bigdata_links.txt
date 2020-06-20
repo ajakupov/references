@@ -21,3 +21,18 @@ https://docs.microsoft.com/en-us/academic-services/graph/tutorial-azure-databric
 
 PySpark analytics samples for Microsoft Academic Graph
 https://docs.microsoft.com/en-us/academic-services/graph/samples-azure-databricks
+
+Save each row in Spark Dataframe into different file
+https://stackoverflow.com/questions/51576261/save-each-row-in-spark-dataframe-into-different-file
+
+How to pass whole Row to UDF - Spark DataFrame filter
+https://stackoverflow.com/questions/31816975/how-to-pass-whole-row-to-udf-spark-dataframe-filter
+
+collect_list by preserving order based on another variable
+https://intellipaat.com/community/17272/collectlist-by-preserving-order-based-on-another-variable
+
+How to sort on a variable within each group in pyspark?
+https://stackoverflow.com/questions/50336137/how-to-sort-on-a-variable-within-each-group-in-pyspark
+
+Typecast string to date and date to string in Pyspark
+http://www.datasciencemadesimple.com/typecast-string-to-date-and-date-to-string-in-pyspark/
