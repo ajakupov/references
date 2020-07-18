@@ -16,7 +16,6 @@ https://tsmatz.wordpress.com/2016/09/27/power-bi-custom-visuals-programming/
 Create A Bar Chart With D3 JavaScript
 http://vegibit.com/create-a-bar-chart-with-d3-javascript/
 
-
 Felix's Node.js Beginners Guide
 http://nodeguide.com/beginner.html
 
@@ -43,3 +42,33 @@ http://qce-ga.sourceforge.net/howto-usbid.html
 
 How do I insert code examples into an HTML file?
 https://stackoverflow.com/questions/4707878/how-do-i-insert-code-examples-into-an-html-file
+
+How to Upload Image From Asp.net Core IFormFile to Azure Blob Storage?
+https://stackoverflow.com/questions/52561285/how-to-upload-image-from-asp-net-core-iformfile-to-azure-blob-storage
+
+REDIRECT TO PAGE IN ASP.NET CORE RAZOR PAGES
+http://learningprogramming.net/net/asp-net-core-razor-pages/redirect-to-page-in-asp-net-core-razor-pages/
+
+HTML Input=“file” Accept Attribute File Type (CSV)
+https://stackoverflow.com/questions/11832930/html-input-file-accept-attribute-file-type-csv
+
+Azure Functions Python developer guide
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python
+
+Examine the Python code files in Visual Studio Code
+https://docs.microsoft.com/en-us/azure/developer/python/tutorial-vs-code-serverless-python-03
+
+Execute raw SQL query in ASP.NET MVC, database first mode
+https://stackoverflow.com/questions/16807334/execute-raw-sql-query-in-asp-net-mvc-database-first-mode
+
+Handler Methods in Razor Pages
+https://www.learnrazorpages.com/razor-pages/handler-methods
+
+How TO - Vertical Menu
+https://www.w3schools.com/howto/howto_css_vertical_menu.asp
+
+How do I display a confirmation message with trying to delete a record in ASP.NET Core using Razor Pages
+https://stackoverflow.com/questions/57389883/how-do-i-display-a-confirmation-message-with-trying-to-delete-a-record-in-asp-ne
+
+Display file name in page after selecting file in file input
+https://codepen.io/hidde/pen/LyLmrG

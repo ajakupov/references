@@ -27,3 +27,6 @@ https://stackoverflow.com/questions/17440795/send-a-string-instead-of-byte-throu
 
 Can't get Android DatePickerDialog to switch to Spinner mode
 https://stackoverflow.com/questions/44418149/cant-get-android-datepickerdialog-to-switch-to-spinner-mode
+
+Retrieve a list of countries from the android OS
+https://stackoverflow.com/questions/9760341/retrieve-a-list-of-countries-from-the-android-os
