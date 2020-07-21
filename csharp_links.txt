@@ -71,3 +71,15 @@ https://docs.microsoft.com/en-us/sandbox/functions-recipes/routes?tabs=csharp
 
 How to read json file from blob storage using Azure Functions Blob Trigger with C#
 https://stackoverflow.com/questions/48405914/how-to-read-json-file-from-blob-storage-using-azure-functions-blob-trigger-with
+
+Split and remove duplicate from String
+https://stackoverflow.com/questions/6715732/split-and-remove-duplicate-from-string
+
+How can I split and trim a string into parts all on one line?
+https://stackoverflow.com/questions/1728303/how-can-i-split-and-trim-a-string-into-parts-all-on-one-line
+
+convert string array to string
+https://stackoverflow.com/questions/4841401/convert-string-array-to-string
+
+how to check the null before splitting string
+https://stackoverflow.com/questions/12971024/how-to-check-the-null-before-splitting-string
