@@ -27,3 +27,12 @@ https://saveenr.gitbooks.io/usql-tutorial/content/expressions/string-expressions
 
 Transform int to string in u-sql
 https://social.msdn.microsoft.com/Forums/office/en-US/303af995-0e8f-4288-8657-1e7023153451/transform-int-to-string-in-usql?forum=transactsql
+
+Output Statement (U-SQL)
+https://docs.microsoft.com/en-us/u-sql/output-statement
+
+MAP_AGG (U-SQL)
+https://docs.microsoft.com/en-us/u-sql/functions/aggregate/map-agg
+
+ARRAY_AGG (U-SQL)
+https://docs.microsoft.com/en-us/u-sql/functions/aggregate/array-agg
