@@ -1,0 +1,2 @@
+KRITA Common Workflows
+https://docs.krita.org/en/tutorials/common_workflows.html#colorizing-line-art

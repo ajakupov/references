@@ -1,0 +1,20 @@
+pip install opencv (Raspberry PI)
+https://www.pyimagesearch.com/2018/09/19/pip-install-opencv/
+
+Disable Screen Sleep?
+https://www.raspberrypi.org/forums/viewtopic.php?t=255163
+
+Slow Raspberry Pi? 11 Tips for Better Speed and Performance 
+https://www.makeuseof.com/tag/raspberry-pi-performance-tips/
+
+How to Run a Raspberry Pi Program on Startup 
+https://learn.sparkfun.com/tutorials/how-to-run-a-raspberry-pi-program-on-startup/all
+
+read/64 error -71 is a USB auto suspend issue?
+https://www.reddit.com/r/raspberry_pi/comments/9s5trg/read64_error_71_is_a_usb_auto_suspend_issue/
+
+Raspberry Pi Reboots on inserting a USB device.
+https://www.raspberrypi.org/forums/viewtopic.php?t=23205
+
+how can I turn off the usb autosuspend?
+https://www.raspberrypi.org/forums/viewtopic.php?t=194324
