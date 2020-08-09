@@ -30,3 +30,21 @@ https://stackoverflow.com/questions/44418149/cant-get-android-datepickerdialog-t
 
 Retrieve a list of countries from the android OS
 https://stackoverflow.com/questions/9760341/retrieve-a-list-of-countries-from-the-android-os
+
+how to go on next edit text when i press enter
+https://stackoverflow.com/questions/23942034/how-to-go-on-next-edit-text-when-i-press-enter
+
+Set inputType for an EditText Programmatically?
+https://stackoverflow.com/questions/2586301/set-inputtype-for-an-edittext-programmatically
+
+Building web apps in WebView
+https://developer.android.com/guide/webapps/webview
+
+How to change the FontSize in an Android WebView?
+https://stackoverflow.com/questions/3796176/how-to-change-the-fontsize-in-an-android-webview
+
+Set focus on spinner when selected in android
+https://stackoverflow.com/questions/23075561/set-focus-on-spinner-when-selected-in-android
+
+Android lollipop change navigation bar color
+https://stackoverflow.com/questions/27839105/android-lollipop-change-navigation-bar-color
