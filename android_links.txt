@@ -48,3 +48,6 @@ https://stackoverflow.com/questions/23075561/set-focus-on-spinner-when-selected-
 
 Android lollipop change navigation bar color
 https://stackoverflow.com/questions/27839105/android-lollipop-change-navigation-bar-color
+
+Android WebView, how to handle redirects in app instead of opening a browser
+https://stackoverflow.com/questions/4066438/android-webview-how-to-handle-redirects-in-app-instead-of-opening-a-browser

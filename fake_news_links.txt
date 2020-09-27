@@ -1,0 +1,14 @@
+KDD 2020 TrueFact Workshop: Making a Credible Web for Tomorrow 
+https://www.microsoft.com/en-us/research/event/kdd-2020-truefact-workshop-making-a-credible-web-for-tomorrow/
+
+Fake news vs Propaganda
+https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset/discussion/154204
+
+Fake News Detection Challenge KDD 2020
+https://www.kaggle.com/c/fakenewskdd2020/leaderboard
+
+Fake News: как создаются фейковые новости и можно ли их распознать
+https://habr.com/en/company/trendmicro/blog/478040/
+
+NLP using GloVe Embeddings(99.87% Accuracy)
+https://www.kaggle.com/madz2000/nlp-using-glove-embeddings-99-87-accuracy

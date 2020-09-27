@@ -36,3 +36,6 @@ https://docs.microsoft.com/en-us/u-sql/functions/aggregate/map-agg
 
 ARRAY_AGG (U-SQL)
 https://docs.microsoft.com/en-us/u-sql/functions/aggregate/array-agg
+
+STRING_SPLIT with a multiple-character separator?
+https://dba.stackexchange.com/questions/175764/string-split-with-a-multiple-character-separator

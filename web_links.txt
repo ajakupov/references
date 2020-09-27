@@ -72,3 +72,6 @@ https://stackoverflow.com/questions/57389883/how-do-i-display-a-confirmation-mes
 
 Display file name in page after selecting file in file input
 https://codepen.io/hidde/pen/LyLmrG
+
+How do I maintain scroll position in MVC?
+https://stackoverflow.com/questions/484463/how-do-i-maintain-scroll-position-in-mvc

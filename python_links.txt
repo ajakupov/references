@@ -108,3 +108,6 @@ https://stackoverflow.com/questions/37146272/how-do-i-get-tensorflows-import-gra
 
 A lot of Warnings when importing tensorflow
 https://stackoverflow.com/questions/57669786/a-lot-of-warnings-when-importing-tensorflow
+
+TfidfVectorizer in scikit-learn : ValueError: np.nan is an invalid document
+https://stackoverflow.com/questions/39303912/tfidfvectorizer-in-scikit-learn-valueerror-np-nan-is-an-invalid-document
