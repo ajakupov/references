@@ -12,3 +12,6 @@ https://habr.com/en/company/trendmicro/blog/478040/
 
 NLP using GloVe Embeddings(99.87% Accuracy)
 https://www.kaggle.com/madz2000/nlp-using-glove-embeddings-99-87-accuracy
+
+Fake and real news dataset
+https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset

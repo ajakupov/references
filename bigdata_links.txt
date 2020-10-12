@@ -36,3 +36,15 @@ https://stackoverflow.com/questions/50336137/how-to-sort-on-a-variable-within-ea
 
 Typecast string to date and date to string in Pyspark
 http://www.datasciencemadesimple.com/typecast-string-to-date-and-date-to-string-in-pyspark/
+
+Connecting to on-prem SQL Server through Azure Databricks
+https://stackoverflow.com/questions/54244249/connecting-to-on-prem-sql-server-through-azure-databricks
+
+Deploy Azure Databricks in your Azure virtual network (VNet injection)
+https://docs.microsoft.com/en-us/azure/databricks/administration-guide/cloud-configurations/azure/vnet-inject
+
+Using Spark from R for performance with arbitrary code – Part 1 – Spark SQL translation, custom functions, and Arrow
+https://www.r-bloggers.com/2019/08/using-spark-from-r-for-performance-with-arbitrary-code-part-1-spark-sql-translation-custom-functions-and-arrow/
+
+4 Tips To Write Scalable Apache Spark Code
+https://medium.com/towards-artificial-intelligence/4-tips-to-write-scalable-apache-spark-code-1c736e4d698e
