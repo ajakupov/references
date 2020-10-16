@@ -1,0 +1,5 @@
+Use the Microsoft Graph API to integrate people intelligence in an app
+https://docs.microsoft.com/en-us/graph/api/resources/social-overview?view=graph-rest-1.0
+
+Overview of people and workplace intelligence in Microsoft Graph
+https://docs.microsoft.com/en-us/graph/social-intel-concept-overview
