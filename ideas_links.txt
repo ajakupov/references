@@ -119,3 +119,6 @@ https://start.lesechos.fr/innovations-startups/tech-futur/la-licorne-dataiku-lan
 
 НАО «Международный центр зеленых технологий и инвестиционных проектов»
 https://igtipc.org/ru/about
+
+Announcement: Knowledge Mining Solution Accelerator (KMA v1.0) 
+https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/announcement-knowledge-mining-solution-accelerator-kma-v1-0/ba-p/805889#.X4_SdsmA1JY.linkedin

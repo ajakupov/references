@@ -1,0 +1,35 @@
+A Complete Tutorial on Time Series Modeling in R
+https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
+
+Auto-train a time-series forecast model
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-forecast
+
+Dates and Times in R
+https://www.stat.berkeley.edu/~s133/dates.html
+
+Regression with time series data
+https://www.otexts.org/fpp/4/8
+
+A Complete Tutorial on Time Series Modeling in R
+https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
+
+Time Series and Forecasting
+http://www.statmethods.net/advstats/timeseries.html
+
+Using R for Time Series Analysis
+http://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html
+
+Using a date field in a ts?
+https://stackoverflow.com/questions/5182262/using-a-date-field-in-a-ts
+
+Time Series Forecasting for irregular time series in R
+https://discuss.analyticsvidhya.com/t/time-series-forecasting-for-irregular-time-series-in-r/17574
+
+Time Series Forecasting
+https://gallery.cortanaintelligence.com/Experiment/Time-Series-Forecasting-8
+
+Anomaly Detection Using H2O Deep Learning 
+https://dzone.com/articles/dive-deep-into-deep-learning-using-h2o-1
+
+Prophet: forecasting at scale
+https://research.fb.com/prophet-forecasting-at-scale/
