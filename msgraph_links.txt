@@ -1,0 +1,11 @@
+Build Python Django apps with Microsoft Graph
+https://docs.microsoft.com/en-us/graph/tutorials/python
+
+Outlook Calendar OAuth 2 Tutorial
+https://requests-oauthlib.readthedocs.io/en/latest/examples/outlook.html
+
+Microsoft Graph API - OAuth 2.0 Scopes
+https://docs.microsoft.com/en-us/answers/questions/28515/microsoft-graph-api-oauth-20-scopes.html
+
+Permissions and consent in the Microsoft identity platform endpoint
+https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent
