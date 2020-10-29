@@ -33,3 +33,9 @@ https://dzone.com/articles/dive-deep-into-deep-learning-using-h2o-1
 
 Prophet: forecasting at scale
 https://research.fb.com/prophet-forecasting-at-scale/
+
+Tutorial: Forecast demand with automated machine learning
+https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-automated-ml-forecast
+
+Auto-train a time-series forecast model
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-forecast

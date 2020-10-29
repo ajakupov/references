@@ -123,3 +123,6 @@ https://habr.com/ru/post/327704/
 
 Background removal with deep learning
 https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b3157
+
+Replace a range of colors with a specific color in python
+https://answers.opencv.org/question/97416/replace-a-range-of-colors-with-a-specific-color-in-python/

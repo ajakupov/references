@@ -48,3 +48,15 @@ https://www.r-bloggers.com/2019/08/using-spark-from-r-for-performance-with-arbit
 
 4 Tips To Write Scalable Apache Spark Code
 https://medium.com/towards-artificial-intelligence/4-tips-to-write-scalable-apache-spark-code-1c736e4d698e
+
+Best practices: Data governance on Azure Databricks
+https://docs.microsoft.com/en-us/azure/databricks/security/data-governance
+
+Create and configure a self-hosted integration runtime
+https://docs.microsoft.com/en-us/azure/data-factory/create-self-hosted-integration-runtime
+
+Copy data from and to the SFTP server by using Azure Data Factory
+https://docs.microsoft.com/en-us/azure/data-factory/connector-sftp
+
+Ingest, prepare, and transform using Azure Databricks and Data Factory
+https://azure.microsoft.com/fr-fr/blog/operationalize-azure-databricks-notebooks-using-data-factory/
