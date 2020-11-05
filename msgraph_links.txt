@@ -9,3 +9,9 @@ https://docs.microsoft.com/en-us/answers/questions/28515/microsoft-graph-api-oau
 
 Permissions and consent in the Microsoft identity platform endpoint
 https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent
+
+Python : How to parse the Body from a raw email , given that raw email does not have a “Body” tag or anything
+https://stackoverflow.com/questions/17874360/python-how-to-parse-the-body-from-a-raw-email-given-that-raw-email-does-not
+
+Parsing the HTML content in email
+https://stackoverflow.com/questions/47317367/parsing-the-html-content-in-email

@@ -126,3 +126,9 @@ https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b315
 
 Replace a range of colors with a specific color in python
 https://answers.opencv.org/question/97416/replace-a-range-of-colors-with-a-specific-color-in-python/
+
+Load svg image in opencv
+https://stackoverflow.com/questions/62329331/load-svg-image-in-opencv
+
+Python: OpenCV: resize image fit to your screen
+https://enumap.wordpress.com/2019/02/25/python-opencv-resize-image-fit-your-screen/
