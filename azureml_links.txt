@@ -99,3 +99,9 @@ https://docs.microsoft.com/en-us/azure/machine-learning/how-to-assign-roles
 
 InterpretML - Alpha Release
 https://github.com/interpretml/interpret
+
+Featurization in automated machine learning
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-features#featurization
+
+What is automated machine learning (AutoML)?
+https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml

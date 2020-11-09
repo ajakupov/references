@@ -1,0 +1,14 @@
+Recommended naming and tagging conventions
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging
+
+Using MLOps with MLflow and Azure
+https://databricks.com/blog/2020/10/13/using-mlops-with-mlflow-and-azure.html?utm_source=bambu&utm_medium=social&utm_campaign=advocacy&blaid=882462
+
+Securing access to Azure Data Lake Gen 2 from Azure Databricks
+https://github.com/hurtn/datalake-ADLS-access-patterns-with-Databricks/blob/master/readme.md
+
+Databricks CLI
+https://docs.microsoft.com/en-us/azure/databricks/dev-tools/cli/
+
+Jobs API
+https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/jobs
