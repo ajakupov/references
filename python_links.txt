@@ -111,3 +111,6 @@ https://stackoverflow.com/questions/57669786/a-lot-of-warnings-when-importing-te
 
 TfidfVectorizer in scikit-learn : ValueError: np.nan is an invalid document
 https://stackoverflow.com/questions/39303912/tfidfvectorizer-in-scikit-learn-valueerror-np-nan-is-an-invalid-document
+
+Conda activate not working?
+https://stackoverflow.com/questions/47246350/conda-activate-not-working
