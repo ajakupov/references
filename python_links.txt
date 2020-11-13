@@ -114,3 +114,6 @@ https://stackoverflow.com/questions/39303912/tfidfvectorizer-in-scikit-learn-val
 
 Conda activate not working?
 https://stackoverflow.com/questions/47246350/conda-activate-not-working
+
+How can i Pass Variable from flask) o HTML without render template?
+https://stackoverflow.com/questions/60262827/how-can-i-pass-variable-from-flask-o-html-without-render-template
