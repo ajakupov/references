@@ -1,0 +1,11 @@
+Introduction to data analytics landing zone
+https://github.com/aztfmod/landingzone_data_analytics
+
+Store Remote State
+https://learn.hashicorp.com/tutorials/terraform/azure-remote?in=terraform/azure-get-started
+
+Azure Cloud Adoption Framework landing zones for Terraform
+https://github.com/Azure/caf-terraform-landingzones
+
+Getting stated with Azure Cloud Adoption Framework landing zones for Terraform
+https://github.com/Azure/caf-terraform-landingzones/blob/master/documentation/getting_started/getting_started.md
