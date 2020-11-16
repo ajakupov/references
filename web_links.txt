@@ -75,3 +75,9 @@ https://codepen.io/hidde/pen/LyLmrG
 
 How do I maintain scroll position in MVC?
 https://stackoverflow.com/questions/484463/how-do-i-maintain-scroll-position-in-mvc
+
+Documentation d'Electron / BrowserWindow
+https://www.electronjs.org/docs/api/browser-window
+
+Using Electron with Flask and python-shell
+https://www.techiediaries.com/flask-electron-tutorial/
