@@ -60,3 +60,6 @@ https://docs.microsoft.com/en-us/azure/data-factory/connector-sftp
 
 Ingest, prepare, and transform using Azure Databricks and Data Factory
 https://azure.microsoft.com/fr-fr/blog/operationalize-azure-databricks-notebooks-using-data-factory/
+
+Azure Data Lake vs Azure Blob Storage in Data Warehousing
+https://blog.pragmaticworks.com/azure-data-lake-vs-azure-blob-storage-in-data-warehousing
