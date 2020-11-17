@@ -105,3 +105,9 @@ https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-fe
 
 What is automated machine learning (AutoML)?
 https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml
+
+Bringing IntelliSense, collaboration and more to Jupyter notebooks with Azure Machine Learning 
+https://techcommunity.microsoft.com/t5/azure-ai/bringing-intellisense-collaboration-and-more-to-jupyter/ba-p/1362009
+
+How to run Jupyter Notebooks in your workspace
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-notebooks
