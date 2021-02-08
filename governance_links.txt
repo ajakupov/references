@@ -12,3 +12,33 @@ https://docs.microsoft.com/en-us/azure/databricks/dev-tools/cli/
 
 Jobs API
 https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/jobs
+
+Error when running python code: "Your administrator has only allowed sql and python and r commands on this cluster.
+https://forums.databricks.com/questions/20260/error-when-running-python-code-your-administrator.html
+
+Create a storage account to use with Azure Data Lake Storage Gen2
+https://docs.microsoft.com/en-us/azure/storage/blobs/create-data-lake-storage-account
+
+Create a service principal
+https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal
+
+Add or remove Azure role assignments using the Azure portal
+https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal
+
+Secret scopes
+https://docs.microsoft.com/en-us/azure/databricks/security/secrets/secret-scopes
+
+Secure access to Azure Data Lake Storage using Azure Active Directory credential passthrough
+https://docs.microsoft.com/en-us/azure/databricks/security/credential-passthrough/adls-passthrough
+
+Create an Azure Data Lake Storage Gen2 account and initialize a filesystem
+https://docs.microsoft.com/en-us/azure/databricks/data/data-sources/azure/azure-datalake-gen2#create-adls-account
+
+adls-passthrough-gen2(Python)
+https://docs.microsoft.com/en-us/azure/databricks/_static/notebooks/adls-passthrough-gen2.html
+
+Best practices: Data governance on Azure Databricks
+https://docs.microsoft.com/en-us/azure/databricks/security/data-governance
+
+SQL Databases using the Apache Spark connector
+https://docs.databricks.com/data/data-sources/sql-databases-azure.html

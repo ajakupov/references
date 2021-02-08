@@ -246,3 +246,30 @@ https://towardsdatascience.com/high-level-history-of-nlp-models-bc8c8b142ef7
 
 Introduction to Natural Language Processing (NLP)
 https://towardsdatascience.com/introduction-to-natural-language-processing-nlp-323cc007df3d
+
+Data Augmentation in NLP: Best Practices From a Kaggle Master
+https://neptune.ai/blog/data-augmentation-nlp
+
+nlpaug
+https://github.com/makcedward/nlpaug
+
+CamemBERT
+https://huggingface.co/transformers/model_doc/camembert.html
+
+French NLP: entamez le CamemBERT avec les librairies fast-bert et transformers
+https://medium.com/@vitalshchutski/french-nlp-entamez-le-camembert-avec-les-librairies-fast-bert-et-transformers-14e65f84c148
+
+CamemBERT
+https://camembert-model.fr/
+
+eda_nlp
+https://github.com/jasonwei20/eda_nlp/blob/master/code/augment.py
+
+How to use "translators" for comments translation
+https://www.kaggle.com/miklgr500/how-to-use-translators-for-comments-translation
+
+data-aug-experiment
+https://colab.research.google.com/drive/1eZlrxmXoNpjhd0CEoZjVnEkHHuy66ZM8?usp=sharing#scrollTo=gNv3AhTLKL3C
+
+NLP Albumentations
+https://www.kaggle.com/shonenkov/nlp-albumentations

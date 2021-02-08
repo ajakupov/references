@@ -63,3 +63,12 @@ https://azure.microsoft.com/fr-fr/blog/operationalize-azure-databricks-notebooks
 
 Azure Data Lake vs Azure Blob Storage in Data Warehousing
 https://blog.pragmaticworks.com/azure-data-lake-vs-azure-blob-storage-in-data-warehousing
+
+How can I query a DataFrame or Table where two columns that have the same name but different cases?
+https://forums.databricks.com/questions/3084/how-can-i-query-a-dataframe-or-table-where-two-col.html
+
+DATEDIFF in SPARK SQl
+https://stackoverflow.com/questions/52527571/datediff-in-spark-sql
+
+How to access the result of a %sql cell from python
+https://forums.databricks.com/questions/14613/how-to-access-the-result-of-a-sql-cell-from-python.html
