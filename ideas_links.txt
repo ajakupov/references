@@ -122,3 +122,12 @@ https://igtipc.org/ru/about
 
 Announcement: Knowledge Mining Solution Accelerator (KMA v1.0) 
 https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/announcement-knowledge-mining-solution-accelerator-kma-v1-0/ba-p/805889#.X4_SdsmA1JY.linkedin
+
+microsoft/botframework-components
+https://github.com/microsoft/botframework-components
+
+Azure Machine Learning release notes
+https://docs.microsoft.com/en-us/azure/machine-learning/azure-machine-learning-release-notes
+
+Scinan Presentation
+https://www.youtube.com/watch?v=wfADVquF1F0

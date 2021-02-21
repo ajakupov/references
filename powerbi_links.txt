@@ -97,3 +97,12 @@ https://blog.crossjoin.co.uk/2016/08/23/web-contents-m-functions-and-dataset-ref
 
 Calling AML from Power BI
 https://social.msdn.microsoft.com/Forums/vstudio/en-US/9826b0a7-ef58-4550-b796-06680aaedf51/calling-aml-from-power-bi?forum=MachineLearning
+
+Anomaly detection (preview)
+https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview/
+
+Posts tagged: Key Influencers visual
+https://powerbi.microsoft.com/en-us/blog/tag/key-influencers-visual/
+
+Create key influencers visualizations
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers
