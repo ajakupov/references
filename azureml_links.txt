@@ -111,3 +111,9 @@ https://techcommunity.microsoft.com/t5/azure-ai/bringing-intellisense-collaborat
 
 How to run Jupyter Notebooks in your workspace
 https://docs.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-notebooks
+
+MicrosoftDocs/ai-fundamentals
+https://github.com/MicrosoftDocs/ai-fundamentals
+
+AI + Machine Learning
+https://docs.microsoft.com/en-us/azure/?product=ai-machine-learning

@@ -131,3 +131,6 @@ https://docs.microsoft.com/en-us/azure/machine-learning/azure-machine-learning-r
 
 Scinan Presentation
 https://www.youtube.com/watch?v=wfADVquF1F0
+
+Quand l’open source s’attaque aux défis du langage naturel
+https://customers.microsoft.com/en-us/story/834504-hugging-face-partner-professional-services-azure-fr-france

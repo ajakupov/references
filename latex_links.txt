@@ -15,3 +15,9 @@ https://www.developpez.net/forums/d371385/autres-langages/autres-langages/latex/
 
 Inserting Images
 https://fr.sharelatex.com/learn/Inserting_Images
+
+Algorithmic package (for each)
+https://tex.stackexchange.com/questions/41222/algorithmic-package-in-latex
+
+Latex algorithms
+https://en.wikibooks.org/wiki/LaTeX/Algorithms

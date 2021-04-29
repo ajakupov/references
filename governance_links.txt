@@ -42,3 +42,6 @@ https://docs.microsoft.com/en-us/azure/databricks/security/data-governance
 
 SQL Databases using the Apache Spark connector
 https://docs.databricks.com/data/data-sources/sql-databases-azure.html
+
+How to keep a branch synchronized/updated with master?
+https://stackoverflow.com/questions/16329776/how-to-keep-a-branch-synchronized-updated-with-master

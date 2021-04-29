@@ -81,3 +81,6 @@ https://www.electronjs.org/docs/api/browser-window
 
 Using Electron with Flask and python-shell
 https://www.techiediaries.com/flask-electron-tutorial/
+
+How to add url parameters to Django template url tag?
+https://stackoverflow.com/questions/25345392/how-to-add-url-parameters-to-django-template-url-tag
