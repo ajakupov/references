@@ -1,0 +1,6 @@
+class azure.ai.formrecognizer.FormTable
+https://azuresdkdocs.blob.core.windows.net/$web/python/azure-ai-formrecognizer/latest/azure.ai.formrecognizer.html#azure.ai.formrecognizer.FormTable
+
+class azure.ai.formrecognizer.FormTableCell
+https://azuresdkdocs.blob.core.windows.net/$web/python/azure-ai-formrecognizer/latest/azure.ai.formrecognizer.html#azure.ai.formrecognizer.FormTableCell
+
