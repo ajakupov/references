@@ -21,3 +21,6 @@ https://tex.stackexchange.com/questions/41222/algorithmic-package-in-latex
 
 Latex algorithms
 https://en.wikibooks.org/wiki/LaTeX/Algorithms
+
+Displaying a wide figure in a two-column document
+https://tex.stackexchange.com/questions/30985/displaying-a-wide-figure-in-a-two-column-document
