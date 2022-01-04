@@ -51,3 +51,12 @@ https://stackoverflow.com/questions/27839105/android-lollipop-change-navigation-
 
 Android WebView, how to handle redirects in app instead of opening a browser
 https://stackoverflow.com/questions/4066438/android-webview-how-to-handle-redirects-in-app-instead-of-opening-a-browser
+
+Android: Permission Denial: starting Intent with revoked permission android.permission.CAMERA
+https://stackoverflow.com/questions/35973235/android-permission-denial-starting-intent-with-revoked-permission-android-perm
+
+Allow user to select camera or gallery for image
+https://stackoverflow.com/questions/4455558/allow-user-to-select-camera-or-gallery-for-image
+
+Intent to choose between the camera or the gallery in Android
+https://stackoverflow.com/questions/25524617/intent-to-choose-between-the-camera-or-the-gallery-in-android
