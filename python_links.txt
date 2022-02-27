@@ -117,3 +117,12 @@ https://stackoverflow.com/questions/47246350/conda-activate-not-working
 
 How can i Pass Variable from flask) o HTML without render template?
 https://stackoverflow.com/questions/60262827/how-can-i-pass-variable-from-flask-o-html-without-render-template
+
+Convert categorical data into various columns for plotting in pandas
+https://stackoverflow.com/questions/34642180/convert-categorical-data-into-various-columns-for-plotting-in-pandas
+
+pandas: how to run a pivot with a multi-index?
+https://stackoverflow.com/questions/35414625/pandas-how-to-run-a-pivot-with-a-multi-index
+
+pandas pivot_table column names
+https://stackoverflow.com/questions/33290374/pandas-pivot-table-column-names
