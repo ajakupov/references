@@ -45,3 +45,9 @@ https://docs.databricks.com/data/data-sources/sql-databases-azure.html
 
 How to keep a branch synchronized/updated with master?
 https://stackoverflow.com/questions/16329776/how-to-keep-a-branch-synchronized-updated-with-master
+
+Azure Databricks API: import entire directory with notebooks
+https://stackoverflow.com/questions/62636705/azure-databricks-api-import-entire-directory-with-notebooks
+
+Synapse: Notebook - Get Notebook
+https://learn.microsoft.com/en-us/rest/api/synapse/data-plane/notebook/get-notebook?tabs=HTTP

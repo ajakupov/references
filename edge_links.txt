@@ -18,3 +18,6 @@ https://www.raspberrypi.org/forums/viewtopic.php?t=23205
 
 how can I turn off the usb autosuspend?
 https://www.raspberrypi.org/forums/viewtopic.php?t=194324
+
+autorun at reboot not working RPI 3b+
+https://forums.raspberrypi.com/viewtopic.php?t=228480
