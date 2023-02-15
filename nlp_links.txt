@@ -1,4 +1,4 @@
-﻿French lemmas
+French lemmas
 https://perso.limsi.fr/anne/OLDlexique.txt
 
 Lemmatize French text
@@ -273,3 +273,6 @@ https://colab.research.google.com/drive/1eZlrxmXoNpjhd0CEoZjVnEkHHuy66ZM8?usp=sh
 
 NLP Albumentations
 https://www.kaggle.com/shonenkov/nlp-albumentations
+
+Yelp Reviews Dataset
+https://www.kaggle.com/datasets/omkarsabnis/yelp-reviews-dataset

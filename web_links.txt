@@ -84,3 +84,6 @@ https://www.techiediaries.com/flask-electron-tutorial/
 
 How to add url parameters to Django template url tag?
 https://stackoverflow.com/questions/25345392/how-to-add-url-parameters-to-django-template-url-tag
+
+How to configure A type record Or IP address to static website in Azure
+https://stackoverflow.com/questions/57472563/how-to-configure-a-type-record-or-ip-address-to-static-website-in-azure
