@@ -28,7 +28,7 @@ http://community.powerbi.com/t5/Developer/Custom-visuals-change-port-from-8080/t
 How to convert/save d3.js graph to pdf/jpeg
 https://stackoverflow.com/questions/16049538/how-to-convert-save-d3-js-graph-to-pdf-jpeg
 
-How to give browser “save image as” option to button
+How to give browser ï¿½save image asï¿½ option to button
 https://stackoverflow.com/questions/30694433/how-to-give-browser-save-image-as-option-to-button
 
 Tutorial: Build an Interactive Virtual Globe with Three.js
@@ -49,7 +49,7 @@ https://stackoverflow.com/questions/52561285/how-to-upload-image-from-asp-net-co
 REDIRECT TO PAGE IN ASP.NET CORE RAZOR PAGES
 http://learningprogramming.net/net/asp-net-core-razor-pages/redirect-to-page-in-asp-net-core-razor-pages/
 
-HTML Input=“file” Accept Attribute File Type (CSV)
+HTML Input=ï¿½fileï¿½ Accept Attribute File Type (CSV)
 https://stackoverflow.com/questions/11832930/html-input-file-accept-attribute-file-type-csv
 
 Azure Functions Python developer guide
@@ -87,3 +87,18 @@ https://stackoverflow.com/questions/25345392/how-to-add-url-parameters-to-django
 
 How to configure A type record Or IP address to static website in Azure
 https://stackoverflow.com/questions/57472563/how-to-configure-a-type-record-or-ip-address-to-static-website-in-azure
+
+Azure Dev Ops
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops?tabs=dotnet-core%2Cyaml%2Cpython
+
+Azure Functions Deployment
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-technologies
+
+Azure Dev Ops pipeline, sytem debug & system diagnosis
+https://stackoverflow.com/questions/60258663/azure-devops-pipeline-difference-between-system-debug-and-enable-system-diagn
+
+Azure Functions Host
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-host-json
+
+Azure Functions Settings
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-app-settings
