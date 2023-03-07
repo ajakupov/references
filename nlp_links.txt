@@ -276,3 +276,6 @@ https://www.kaggle.com/shonenkov/nlp-albumentations
 
 Yelp Reviews Dataset
 https://www.kaggle.com/datasets/omkarsabnis/yelp-reviews-dataset
+
+Detecting deceptive hotel reviews using topic models
+https://dataincognita.net/2017/11/03/detecting-deceptive-hotel-reviews-using-topic-models/
