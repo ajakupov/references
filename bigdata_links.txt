@@ -72,3 +72,6 @@ https://stackoverflow.com/questions/52527571/datediff-in-spark-sql
 
 How to access the result of a %sql cell from python
 https://forums.databricks.com/questions/14613/how-to-access-the-result-of-a-sql-cell-from-python.html
+
+DataBricks: Ingesting CSV data to a Delta Live Table in Python triggers "invalid characters in table name" error - how to set column mapping mode?
+https://stackoverflow.com/questions/72643210/databricks-ingesting-csv-data-to-a-delta-live-table-in-python-triggers-invalid
