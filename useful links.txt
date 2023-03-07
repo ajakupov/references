@@ -310,3 +310,6 @@ https://blogs.msdn.microsoft.com/azuredev/2018/09/09/docker-in-azure-vm/
 
 How to Install Docker On Ubuntu 18.04 Bionic Beaver
 https://phoenixnap.com/kb/how-to-install-docker-on-ubuntu-18-04
+
+Anna’s Archive
+https://annas-archive.org/md5/dd488a88761598457de6810719714b48
