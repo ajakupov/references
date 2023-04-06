@@ -75,3 +75,15 @@ https://forums.databricks.com/questions/14613/how-to-access-the-result-of-a-sql-
 
 DataBricks: Ingesting CSV data to a Delta Live Table in Python triggers "invalid characters in table name" error - how to set column mapping mode?
 https://stackoverflow.com/questions/72643210/databricks-ingesting-csv-data-to-a-delta-live-table-in-python-triggers-invalid
+
+Upsert of the new/updated data
+https://stackoverflow.com/questions/68980848/converting-pyspark-dataframe-to-a-delta-table
+
+Upsert into a Delta Lake table using merge
+https://learn.microsoft.com/en-us/azure/databricks/delta/merge#sql-4
+
+Table streaming reads and writes
+https://learn.microsoft.com/en-us/azure/databricks/structured-streaming/delta-lake
+
+Using Spark Streaming to merge/upsert data into a Delta Lake with working code
+https://canadiandataguy.medium.com/using-spark-streaming-to-merge-upsert-data-into-a-delta-lake-6d34c827a892
